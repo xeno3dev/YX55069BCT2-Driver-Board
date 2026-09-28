@@ -1,0 +1,7 @@
+# Local import/validation scratch files. The portable library is the .kicad_sym
+# file and YX55069BCT2.pretty directory at this level.
+sources/*.pdf
+sources/validation-*.pretty/
+sources/validation-*.kicad_sym
+sources/symbol-render/
+tools/__pycache__/

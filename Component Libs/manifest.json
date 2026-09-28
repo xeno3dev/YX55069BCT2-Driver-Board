@@ -1,0 +1,618 @@
+[
+  {
+    "symbol": "TYPE-C16PIN",
+    "source_library": "slate113.kicad_sym",
+    "source_symbol": "TYPE-C16PIN",
+    "source_sha256": "e61c9a416539cc36ec6511827d30693878a17191163904afca8b2efb2f6d5d26",
+    "footprint": "YX55069BCT2:USB-C-SMD_TYPE-C16PIN"
+  },
+  {
+    "symbol": "FPC0.5-24P",
+    "source_library": "slate113.kicad_sym",
+    "source_symbol": "FPC0.5-24P",
+    "source_sha256": "e61c9a416539cc36ec6511827d30693878a17191163904afca8b2efb2f6d5d26",
+    "footprint": "YX55069BCT2:FPC-SMD_P0.50-24P_XJ-FGS"
+  },
+  {
+    "symbol": "FPC-0.5FX-6PWBH10",
+    "source_library": "slate113.kicad_sym",
+    "source_symbol": "FPC-0.5FX-6PWBH10",
+    "source_sha256": "e61c9a416539cc36ec6511827d30693878a17191163904afca8b2efb2f6d5d26",
+    "footprint": "YX55069BCT2:FPC-SMD_FPC-0.5FX-6PWBH10"
+  },
+  {
+    "symbol": "PCA9306DCUR",
+    "source_library": "slate113.kicad_sym",
+    "source_symbol": "PCA9306DCUR",
+    "source_sha256": "e61c9a416539cc36ec6511827d30693878a17191163904afca8b2efb2f6d5d26",
+    "footprint": "YX55069BCT2:SSOP-8_L2.0-W2.3-P0.50-LS3.1-BR"
+  },
+  {
+    "symbol": "AP2112K-3.3TRG1",
+    "source_library": "slate113.kicad_sym",
+    "source_symbol": "AP2112K-3.3TRG1",
+    "source_sha256": "e61c9a416539cc36ec6511827d30693878a17191163904afca8b2efb2f6d5d26",
+    "footprint": "YX55069BCT2:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+  },
+  {
+    "symbol": "AP2112K-1.8TRG1",
+    "source_library": "slate113.kicad_sym",
+    "source_symbol": "AP2112K-1.8TRG1",
+    "source_sha256": "e61c9a416539cc36ec6511827d30693878a17191163904afca8b2efb2f6d5d26",
+    "footprint": "YX55069BCT2:SOT-25_L3.0-W1.6-P0.95-LS2.8-BL"
+  },
+  {
+    "symbol": "AP2120N-2.8TRG1",
+    "source_library": "slate113.kicad_sym",
+    "source_symbol": "AP2120N-2.8TRG1",
+    "source_sha256": "e61c9a416539cc36ec6511827d30693878a17191163904afca8b2efb2f6d5d26",
+    "footprint": "YX55069BCT2:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+  },
+  {
+    "symbol": "LP8556SQ-E09_NOPB",
+    "source_library": "slate113.kicad_sym",
+    "source_symbol": "LP8556SQ-E09_NOPB",
+    "source_sha256": "e61c9a416539cc36ec6511827d30693878a17191163904afca8b2efb2f6d5d26",
+    "footprint": "YX55069BCT2:WQFN-24_L4.0-W4.0-P0.50-BL-EP2.5"
+  },
+  {
+    "symbol": "AP2112K-1.2TRG1",
+    "source_library": "Regulator_Linear.kicad_sym",
+    "source_symbol": "AP2112K-1.2",
+    "source_sha256": "c3a0dfcf5a2404287b17bc758d59a50afe998dfe3ebcc46e58270a21e2b1a58d",
+    "footprint": "YX55069BCT2:SOT-23-5"
+  },
+  {
+    "symbol": "ESP32-S3-WROOM-1-N16R8",
+    "source_library": "slate113.kicad_sym",
+    "source_symbol": "ESP32-S3-WROOM-1U-N8",
+    "source_sha256": "e61c9a416539cc36ec6511827d30693878a17191163904afca8b2efb2f6d5d26",
+    "footprint": "YX55069BCT2:ESP32-S3-WROOM-1"
+  },
+  {
+    "symbol": "ESP32-S3-WROOM-1U-N8",
+    "source_library": "slate113.kicad_sym",
+    "source_symbol": "ESP32-S3-WROOM-1U-N8",
+    "source_sha256": "e61c9a416539cc36ec6511827d30693878a17191163904afca8b2efb2f6d5d26",
+    "footprint": "YX55069BCT2:WIRELM-SMD_ESP32-S3-WROOM-1U"
+  },
+  {
+    "symbol": "ESP32-S3R8",
+    "source_library": "C2913194_import.kicad_sym",
+    "source_symbol": "ESP32-S3",
+    "source_sha256": "f87779eaebd4793ae450558fd747b668cb41478b91a8e60147355e1c2eb05cb4",
+    "footprint": "YX55069BCT2:QFN-56_L7.0-W7.0-P0.40-TL-EP4.0"
+  },
+  {
+    "symbol": "GD25Q128EWIGR",
+    "source_library": "C2982923_import.kicad_sym",
+    "source_symbol": "GD25Q128EWIGR",
+    "source_sha256": "4a08ebe8f494599acade6533cec492497f0ca8edcf108b1eae4a6b28c5ea355a",
+    "footprint": "YX55069BCT2:WSON-8_L6.0-W5.0-P1.27-TL-EP"
+  },
+  {
+    "symbol": "ABM8-40.000MHZ-10-D1G-T",
+    "source_library": "C1986736_import.kicad_sym",
+    "source_symbol": "ABM8-40.000MHZ-10-D1G-T",
+    "source_sha256": "fbee525017af7fed970cdd6415dfaa20f6c599f434ab375b520f96ffd4800631",
+    "footprint": "YX55069BCT2:CRYSTAL-SMD_4P-L3.2-W2.5-BL"
+  },
+  {
+    "symbol": "CL05C150JB5NNNC",
+    "source_library": "C86285_import.kicad_sym",
+    "source_symbol": "CL05C150JB5NNNC",
+    "source_sha256": "edb4d0d32debd2fb06f3e65bea55e2a513c578545d13f1c13afc9894954b93f5",
+    "footprint": "YX55069BCT2:C0402"
+  },
+  {
+    "symbol": "GRM188R61A106KE69D",
+    "source_library": "C77044_import.kicad_sym",
+    "source_symbol": "GRM188R61A106KE69D",
+    "source_sha256": "b0bc35fba082b3bb871502de1820acbf1fbf449163d8d9bbfe124d6680f7df24",
+    "footprint": "YX55069BCT2:C0603"
+  },
+  {
+    "symbol": "CL05A105KA5NQNC",
+    "source_library": "C52923_import.kicad_sym",
+    "source_symbol": "CL05A105KA5NQNC",
+    "source_sha256": "8a4f6f7322002c6dcfe8c206a9ed8dceb683fef895e6c01775fc2faffbafab57",
+    "footprint": "YX55069BCT2:C0402"
+  },
+  {
+    "symbol": "CL05B104KO5NNNC",
+    "source_library": "C1525_import.kicad_sym",
+    "source_symbol": "CL05B104KO5NNNC",
+    "source_sha256": "48251cd5aad6a58309195b1fa406946df65288c34b33e2742f67fc062add6aae",
+    "footprint": "YX55069BCT2:C0402"
+  },
+  {
+    "symbol": "GRM188R61A475KE15D",
+    "source_library": "C71633_import.kicad_sym",
+    "source_symbol": "GRM188R61A475KE15D",
+    "source_sha256": "9aef7f262f9b15740a2248006848e4e46267f2dc6df6c91663313d5ebbae1644",
+    "footprint": "YX55069BCT2:C0603"
+  },
+  {
+    "symbol": "RC0402FR-0710KL",
+    "source_library": "C60490_import.kicad_sym",
+    "source_symbol": "RC0402FR-0710KL",
+    "source_sha256": "aad1ba4fbed91490f34d7dcbec5a6e38fea71feab324ba516b26f53d256c5714",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
+    "symbol": "RC0402FR-072KL",
+    "source_library": "C60488_import.kicad_sym",
+    "source_symbol": "RC0402FR-072KL",
+    "source_sha256": "030c34243030a81a1e075e8c918a8dbe5b9a32b48d140f8c85d74f48acb38ff9",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
+    "symbol": "RC0402FR-0722RL",
+    "source_library": "C114765_import.kicad_sym",
+    "source_symbol": "RC0402FR-0722RL",
+    "source_sha256": "736e0925e9746d6ac743bc953bcee5d3e7185f6b378d8bdce78b8e65c40620ae",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
+    "symbol": "RC0402FR-070RL",
+    "source_library": "C106231_import.kicad_sym",
+    "source_symbol": "RC0402FR-070RL",
+    "source_sha256": "507f4fc02ffe9e090f6af574b8345571f6c475af2257c8557eae969af7636212",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
+    "symbol": "RC0402FR-07100RL",
+    "source_library": "C106232_import.kicad_sym",
+    "source_symbol": "RC0402FR-07100RL",
+    "source_sha256": "4a790593d2856048838c4bf9bf1ec6bb838a33f8c75ecfd835143769570fca17",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
+    "symbol": "RC0402FR-07499RL",
+    "source_library": "C137970_import.kicad_sym",
+    "source_symbol": "RC0402FR-07499RL",
+    "source_sha256": "785a6797f0753625ce8a9b7dc8e6b2af744ea3c68b9f52d208ef78d2c1f38f5e",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
+    "symbol": "RC0402FR-0727RL",
+    "source_library": "C138021_import.kicad_sym",
+    "source_symbol": "RC0402FR-0727RL",
+    "source_sha256": "e2aaca85e8fae6bb478d2ac076665178a39d481dc836d35c84f5041a3e0970f6",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
+    "symbol": "CS0402-24NJ-S",
+    "source_library": "C142185_import.kicad_sym",
+    "source_symbol": "CS0402-24NJ-S",
+    "source_sha256": "60497826fe0f6fdf6c7e5da3c6bd66b4141bc9e8f8d209c9ef3531395029a399",
+    "footprint": "YX55069BCT2:IND-SMD_L1.0-W0.5"
+  },
+  {
+    "symbol": "S16",
+    "source_library": "C405304_import.kicad_sym",
+    "source_symbol": "S16",
+    "source_sha256": "609eef1b231efce08a75d4ac31c80705346ec42529a1468a8e4d470cb6663b6a",
+    "footprint": "YX55069BCT2:SOD-123FL_L2.7-W1.8-LS3.8-RD"
+  },
+  {
+    "symbol": "SN74AXC1T45DCKR",
+    "source_library": "C2677392_import.kicad_sym",
+    "source_symbol": "SN74AXC1T45DCKR",
+    "source_sha256": "0e431e08f16aaf183a277254709f3d3125f9f46b1bdddded737d9cd21a47359f",
+    "footprint": "YX55069BCT2:SC-70-6_L2.0-W1.3-P0.65-LS2.1-BL-1"
+  },
+  {
+    "symbol": "TC358870XBG(NOK)",
+    "source_library": "tc358870_import.kicad_sym",
+    "source_symbol": "TC358870XBG",
+    "source_sha256": "da188783537737fb28fec2dd006fe7ebab1b1c3b19b329f1487f98b9a3e5f0c8",
+    "footprint": "YX55069BCT2:P-VFBGA-80_L7.0-W7.0-R10-C10-P0.65-TL"
+  },
+  {
+    "symbol": "STUSB4500QTR",
+    "source_library": "C2678061_import.kicad_sym",
+    "source_symbol": "STUSB4500QTR",
+    "source_sha256": "39a7e84a562c76d5b99014867c8de92caebf32de94574a201434665232e02508",
+    "footprint": "YX55069BCT2:QFN-24_L4.0-W4.0-P0.50-BL-EP2.8"
+  },
+  {
+    "symbol": "SED5120",
+    "source_library": "C2838439_import.kicad_sym",
+    "source_symbol": "SED5120",
+    "source_sha256": "1a0aec521c4fefe5447b3e55cb4447af331b326fb1719917945fbd8f9c044a68",
+    "footprint": "YX55069BCT2:SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR"
+  },
+  {
+    "symbol": "OT7EL89CJI-111YLC-48M",
+    "source_library": "OT7EL89CJI-111YLC-48M_import.kicad_sym",
+    "source_symbol": "OT7EL89CJI-111YLC-48M",
+    "source_sha256": "edf8a939334646c08327c000cd7770919f897cabec580534868cf7255589cfd9",
+    "footprint": "YX55069BCT2:OSC-SMD_4P-L2.0-W1.6-BL"
+  },
+  {
+    "symbol": "BSS138_C112239",
+    "source_library": "C112239_import.kicad_sym",
+    "source_symbol": "BSS138_C112239",
+    "source_sha256": "7a8ce513cefc86bef00ead944bf5a4b04de60f0839f3bec8bb702be26107d7b0",
+    "footprint": "YX55069BCT2:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+  },
+  {
+    "symbol": "TLV76733DRVR",
+    "source_library": "TLV767_import.kicad_sym",
+    "source_symbol": "TLV76733DRVR",
+    "source_sha256": "0dd07c5ccf99d7944ffecdfba061963c258790d060a2f5310ee112f11b950bed",
+    "footprint": "YX55069BCT2:WSON-6_L2.0-W2.0-P0.65-TL-EP"
+  },
+  {
+    "symbol": "TLV76728DRVR",
+    "source_library": "TLV767_import.kicad_sym",
+    "source_symbol": "TLV76728DRVR",
+    "source_sha256": "0dd07c5ccf99d7944ffecdfba061963c258790d060a2f5310ee112f11b950bed",
+    "footprint": "YX55069BCT2:WSON-6_L2.0-W2.0-P0.65-BL-EP"
+  },
+  {
+    "symbol": "TLV76718DRVR",
+    "source_library": "TLV767_import.kicad_sym",
+    "source_symbol": "TLV76718DRVR",
+    "source_sha256": "0dd07c5ccf99d7944ffecdfba061963c258790d060a2f5310ee112f11b950bed",
+    "footprint": "YX55069BCT2:WSON-6_L2.0-W2.0-P0.65-BL-EP"
+  },
+  {
+    "symbol": "TLV76701DRVR",
+    "source_library": "TLV767_import.kicad_sym",
+    "source_symbol": "TLV76701DRVR",
+    "source_sha256": "0dd07c5ccf99d7944ffecdfba061963c258790d060a2f5310ee112f11b950bed",
+    "footprint": "YX55069BCT2:WSON-6_L2.0-W2.0-P0.65-TL-EP"
+  },
+  {
+    "symbol": "10029449-001RLF",
+    "source_library": "Connector.kicad_sym",
+    "source_symbol": "HDMI_A",
+    "source_sha256": "1596718c70ff14cc217a9297dcb48bad23bdffcca0881600e9e66be16953bf59",
+    "footprint": "YX55069BCT2:HDMI_A_Amphenol_10029449-x01xLF_Horizontal"
+  },
+  {
+    "symbol": "USBLC6-2SC6",
+    "source_library": "Power_Protection.kicad_sym",
+    "source_symbol": "USBLC6-2SC6",
+    "source_sha256": "e7af99c758ff17246e4fdb360f106602b6c38681e49dcd0e990f5c3039a65e16",
+    "footprint": "YX55069BCT2:SOT-23-6"
+  },
+  {
+    "symbol": "TPS62160DGKR",
+    "source_library": "Regulator_Switching.kicad_sym",
+    "source_symbol": "TPS62160DGK",
+    "source_sha256": "72b0b2e6c1b9174f0cf873ce25cf1952725239bdb4da76b84929bb9bf08cab50",
+    "footprint": "YX55069BCT2:MSOP-8_3x3mm_P0.65mm"
+  },
+  {
+    "symbol": "SN74LVC1T45DBVR",
+    "source_library": "Logic_LevelTranslator.kicad_sym",
+    "source_symbol": "SN74LVC1T45DBV",
+    "source_sha256": "cc3fc2e309bba911ee136525dd8b0e87cc70977e871e126a84d24b83f21e6cd7",
+    "footprint": "YX55069BCT2:SOT-23-6"
+  },
+  {
+    "symbol": "TPD4E05U06DQAR",
+    "source_library": "Power_Protection.kicad_sym",
+    "source_symbol": "TPD4E05U06DQA",
+    "source_sha256": "e7af99c758ff17246e4fdb360f106602b6c38681e49dcd0e990f5c3039a65e16",
+    "footprint": "YX55069BCT2:USON-10_2.5x1.0mm_P0.5mm"
+  },
+  {
+    "symbol": "TPS22917DBVR",
+    "source_library": "Power_Management.kicad_sym",
+    "source_symbol": "TPS22917DBV",
+    "source_sha256": "b363dee438096a08d33bf1218c4de2a1dcb581322094642c1b90822495497efe",
+    "footprint": "YX55069BCT2:SOT-23-6"
+  },
+  {
+    "symbol": "2N7002",
+    "source_library": "Transistor_FET.kicad_sym",
+    "source_symbol": "2N7002",
+    "source_sha256": "d7beb2349ad72aed87767dc920fd11c6c0709ca25048a7945d4f6826191e91d9",
+    "footprint": "YX55069BCT2:SOT-23"
+  },
+  {
+    "symbol": "SS16",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "D_Schottky",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:D_SMA"
+  },
+  {
+    "symbol": "R_0_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_22_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_33_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_100_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_1k_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_2k_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_4.7k_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_5.1k_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_10k_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_24.9k_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_37.4k_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_49.9k_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_100k_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_200k_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "R_301k_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "R",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:R_0603_1608Metric"
+  },
+  {
+    "symbol": "C_10nF_25V_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "C",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:C_0603_1608Metric"
+  },
+  {
+    "symbol": "C_100nF_25V_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "C",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:C_0603_1608Metric"
+  },
+  {
+    "symbol": "C_1uF_16V_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "C",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:C_0603_1608Metric"
+  },
+  {
+    "symbol": "C_2.2uF_16V_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "C",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:C_0603_1608Metric"
+  },
+  {
+    "symbol": "C_4.7uF_16V_0805",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "C",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:C_0805_2012Metric"
+  },
+  {
+    "symbol": "C_10uF_16V_0805",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "C",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:C_0805_2012Metric"
+  },
+  {
+    "symbol": "C_22uF_10V_0805",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "C",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:C_0805_2012Metric"
+  },
+  {
+    "symbol": "C_4.7uF_50V_1206",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "C",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:C_1206_3216Metric"
+  },
+  {
+    "symbol": "C_1uF_50V_1206",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "C",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:C_1206_3216Metric"
+  },
+  {
+    "symbol": "L_2.2uH_Buck",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "L",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:L_Taiyo-Yuden_MD-3030"
+  },
+  {
+    "symbol": "L_Backlight_Select",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "L",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:L_Taiyo-Yuden_MD-3030"
+  },
+  {
+    "symbol": "Ferrite_Bead_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "FerriteBead",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:L_0603_1608Metric"
+  },
+  {
+    "symbol": "SW_Reset_Boot",
+    "source_library": "Switch.kicad_sym",
+    "source_symbol": "SW_Push",
+    "source_sha256": "e29b9ef9a0a1ae63e3a87e6dcec46ca30325eb6335fa9b8a2257c02bd891cc5e",
+    "footprint": "YX55069BCT2:SW_SPST_TL3342"
+  },
+  {
+    "symbol": "Header_UART_Programming",
+    "source_library": "Connector_Generic.kicad_sym",
+    "source_symbol": "Conn_01x06",
+    "source_sha256": "1ae3b346fe1c4e874fecb72abc7df4e94a253780db183439dbfefc4e2ff3a0be",
+    "footprint": "YX55069BCT2:PinHeader_1x06_P2.54mm_Vertical"
+  },
+  {
+    "symbol": "Header_5V_Input",
+    "source_library": "Connector_Generic.kicad_sym",
+    "source_symbol": "Conn_01x02",
+    "source_sha256": "1ae3b346fe1c4e874fecb72abc7df4e94a253780db183439dbfefc4e2ff3a0be",
+    "footprint": "YX55069BCT2:PinHeader_1x02_P2.54mm_Vertical"
+  },
+  {
+    "symbol": "TestPoint",
+    "source_library": "Connector.kicad_sym",
+    "source_symbol": "TestPoint",
+    "source_sha256": "1596718c70ff14cc217a9297dcb48bad23bdffcca0881600e9e66be16953bf59",
+    "footprint": "YX55069BCT2:TestPoint_Pad_D1.0mm"
+  },
+  {
+    "symbol": "Fuse_1206",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "Fuse",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:Fuse_1206_3216Metric"
+  },
+  {
+    "symbol": "LED_0603",
+    "source_library": "Device.kicad_sym",
+    "source_symbol": "LED",
+    "source_sha256": "e03831d421787531315439a4af4229e5d5d88ee51c7f36ba3f658ddf2978cda9",
+    "footprint": "YX55069BCT2:LED_0603_1608Metric"
+  },
+  {
+    "symbol": "Oscillator_48MHz_1V8",
+    "source_library": "Oscillator.kicad_sym",
+    "source_symbol": "ASE-xxxMHz",
+    "source_sha256": "f33cfd418ee5ffb4fa0290e1eca5a9b5bd964a390295b2fe0bd1556fd2abbe02",
+    "footprint": "YX55069BCT2:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
+  },
+  {
+    "symbol": "GND",
+    "source_library": "power.kicad_sym",
+    "source_symbol": "GND",
+    "source_sha256": "9f49ee941555a5194f330db1363f24f339b88272a2a60c6e15da8ba11ec6d114",
+    "footprint": ""
+  },
+  {
+    "symbol": "+1V1",
+    "source_library": "power.kicad_sym",
+    "source_symbol": "+1V1",
+    "source_sha256": "9f49ee941555a5194f330db1363f24f339b88272a2a60c6e15da8ba11ec6d114",
+    "footprint": ""
+  },
+  {
+    "symbol": "+1V2",
+    "source_library": "power.kicad_sym",
+    "source_symbol": "+1V2",
+    "source_sha256": "9f49ee941555a5194f330db1363f24f339b88272a2a60c6e15da8ba11ec6d114",
+    "footprint": ""
+  },
+  {
+    "symbol": "+1V8",
+    "source_library": "power.kicad_sym",
+    "source_symbol": "+1V8",
+    "source_sha256": "9f49ee941555a5194f330db1363f24f339b88272a2a60c6e15da8ba11ec6d114",
+    "footprint": ""
+  },
+  {
+    "symbol": "+2V8",
+    "source_library": "power.kicad_sym",
+    "source_symbol": "+2V8",
+    "source_sha256": "9f49ee941555a5194f330db1363f24f339b88272a2a60c6e15da8ba11ec6d114",
+    "footprint": ""
+  },
+  {
+    "symbol": "+3V3",
+    "source_library": "power.kicad_sym",
+    "source_symbol": "+3V3",
+    "source_sha256": "9f49ee941555a5194f330db1363f24f339b88272a2a60c6e15da8ba11ec6d114",
+    "footprint": ""
+  },
+  {
+    "symbol": "+5V",
+    "source_library": "power.kicad_sym",
+    "source_symbol": "+5V",
+    "source_sha256": "9f49ee941555a5194f330db1363f24f339b88272a2a60c6e15da8ba11ec6d114",
+    "footprint": ""
+  },
+  {
+    "symbol": "PWR_FLAG",
+    "source_library": "power.kicad_sym",
+    "source_symbol": "PWR_FLAG",
+    "source_sha256": "9f49ee941555a5194f330db1363f24f339b88272a2a60c6e15da8ba11ec6d114",
+    "footprint": ""
+  }
+]

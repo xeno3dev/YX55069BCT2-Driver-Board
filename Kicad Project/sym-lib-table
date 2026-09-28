@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib
+    (name "YX55069BCT2")
+    (type "KiCad")
+    (uri "${KIPRJMOD}/../Component Libs/YX55069BCT2.kicad_sym")
+    (options "")
+    (descr "Portable YX55069BCT2 driver-board library")))
