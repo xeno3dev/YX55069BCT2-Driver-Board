@@ -165,6 +165,9 @@ for source, name, fields in [
     ('C86285', 'CL05C150JB5NNNC', {'MPN':'CL05C150JB5NNNC', 'Manufacturer':'Samsung Electro-Mechanics', 'LCSC':'C86285',
         'LCSC Link':'https://www.lcsc.com/product-detail/C86285.html',
         'Value':'15 pF', 'Dielectric':'C0G', 'Voltage':'50 V'}),
+    ('C85880', 'GJM1555C1H2R2CB01D', {'MPN':'GJM1555C1H2R2CB01D', 'Manufacturer':'Murata', 'LCSC':'C85880',
+        'LCSC Link':'https://www.lcsc.com/product-detail/C85880.html',
+        'Value':'2.2 pF', 'Dielectric':'C0G', 'Voltage':'50 V'}),
     ('C77044', 'GRM188R61A106KE69D', {'MPN':'GRM188R61A106KE69D', 'Manufacturer':'Murata', 'LCSC':'C77044',
         'LCSC Link':'https://www.lcsc.com/product-detail/C77044.html',
         'Value':'10 uF', 'Dielectric':'X5R', 'Voltage':'10 V'}),
@@ -213,6 +216,24 @@ add(base/'sources/C2677392_import.kicad_sym', 'SN74AXC1T45DCKR', fields={
     'LCSC Link':'https://www.lcsc.com/product-detail/C2677392.html',
     'Role':'Single-bit bidirectional dual-supply level translator; DIR selects the A-to-B direction.',
     'Source':'EasyEDA/LCSC C2677392 import; footprint copied locally for portable project use'})
+
+add(base/'sources/C138714_import.kicad_sym', 'TPD4E05U06DQAR_C138714', new='TPD4E05U06DQAR', fields={
+    'MPN':'TPD4E05U06DQAR', 'Manufacturer':'Texas Instruments', 'LCSC':'C138714',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C138714.html',
+    'Role':'Four-channel unidirectional ultra-low-capacitance ESD protection for high-speed interfaces.',
+    'Source':'EasyEDA/LCSC C138714 import; footprint copied locally for portable project use'})
+
+add(base/'sources/C106794_import.kicad_sym', 'TPD4E02B04DQAR', fields={
+    'MPN':'TPD4E02B04DQAR', 'Manufacturer':'Texas Instruments', 'LCSC':'C106794',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C106794.html',
+    'Role':'Four-channel bidirectional 0.25 pF ESD protection for high-speed interfaces.',
+    'Source':'EasyEDA/LCSC C106794 import; footprint copied locally for portable project use'})
+
+add(base/'sources/C25894_import.kicad_sym', '0402WGF4322TCE', fields={
+    'MPN':'0402WGF4322TCE', 'Manufacturer':'UNI-ROYAL', 'LCSC':'C25894',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C25894.html',
+    'Value':'43.2 kOhm', 'Tolerance':'1%', 'Power':'62.5 mW', 'Voltage':'50 V',
+    'Source':'EasyEDA/LCSC C25894 import; footprint copied locally for portable project use'})
 
 bridge=add(base/'sources/tc358870_import.kicad_sym','TC358870XBG','TC358870XBG(NOK)',fields={
     'MPN':'TC358870XBG(NOK)','LCSC':'C3008712',
@@ -270,7 +291,6 @@ stock('Power_Protection','USBLC6-2SC6',fields={'MPN':'USBLC6-2SC6','Manufacturer
     'LCSC Link':'https://www.lcsc.com/product-detail/C7519.html','Datasheet':'https://www.st.com/resource/en/datasheet/usblc6-2.pdf'})
 stock('Regulator_Switching','TPS62160DGK',new='TPS62160DGKR',fields={'MPN':'TPS62160DGKR','Role':'Adjustable 1.1/1.2 V bridge rails or efficient 3.3 V supply; use separate converter per rail'})
 stock('Logic_LevelTranslator','SN74LVC1T45DBV',new='SN74LVC1T45DBVR',fields={'MPN':'SN74LVC1T45DBVR','Role':'Direction-controlled translation of RESET/INT; DIR referenced to VCCA'})
-stock('Power_Protection','TPD4E05U06DQA',new='TPD4E05U06DQAR',fields={'MPN':'TPD4E05U06DQAR','Role':'Low-capacitance ESD for HDMI TMDS; use two for all eight conductors'})
 stock('Power_Management','TPS22917DBV',new='TPS22917DBVR',fields={'MPN':'TPS22917DBVR','Role':'Optional controlled panel power/load switch; current budget still required'})
 stock('Transistor_FET','2N7002',fields={'Role':'Open-drain reset, enable and optional level translation'})
 stock('Device','D_Schottky',new='SS16',footprint='Diode_SMD:D_SMA',value='SS16 1A 60V',fields={'MPN':'SS16','Role':'Backlight boost rectifier candidate; check peak/RMS current and thermal margin'})

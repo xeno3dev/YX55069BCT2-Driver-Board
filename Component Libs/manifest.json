@@ -105,6 +105,13 @@
     "footprint": "YX55069BCT2:C0402"
   },
   {
+    "symbol": "GJM1555C1H2R2CB01D",
+    "source_library": "C85880_import.kicad_sym",
+    "source_symbol": "GJM1555C1H2R2CB01D",
+    "source_sha256": "ec5947f8b3507296c0693575a41790e54b83ff4cb7f378c6d2fc8bafb4314794",
+    "footprint": "YX55069BCT2:C0402"
+  },
+  {
     "symbol": "GRM188R61A106KE69D",
     "source_library": "C77044_import.kicad_sym",
     "source_symbol": "GRM188R61A106KE69D",
@@ -203,6 +210,27 @@
     "footprint": "YX55069BCT2:SC-70-6_L2.0-W1.3-P0.65-LS2.1-BL-1"
   },
   {
+    "symbol": "TPD4E05U06DQAR",
+    "source_library": "C138714_import.kicad_sym",
+    "source_symbol": "TPD4E05U06DQAR_C138714",
+    "source_sha256": "a07c76dcde0f9c9473ba804119b7943039643c6ce38acc1cdaf7774d05e4477c",
+    "footprint": "YX55069BCT2:USON-10_L2.5-W1.0-P0.50-BL"
+  },
+  {
+    "symbol": "TPD4E02B04DQAR",
+    "source_library": "C106794_import.kicad_sym",
+    "source_symbol": "TPD4E02B04DQAR",
+    "source_sha256": "37ada0063e4b37546a2dff6f723d8f1667fcbd7590a48cfa2d1c4785bea34a06",
+    "footprint": "YX55069BCT2:USON-10_L2.5-W1.0-P0.50-BL"
+  },
+  {
+    "symbol": "0402WGF4322TCE",
+    "source_library": "C25894_import.kicad_sym",
+    "source_symbol": "0402WGF4322TCE",
+    "source_sha256": "1d0755e420bd6f3a2230c2e74b9c99c2028e05bf3b1ed83d6c51c1c5edea6fce",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
     "symbol": "TC358870XBG(NOK)",
     "source_library": "tc358870_import.kicad_sym",
     "source_symbol": "TC358870XBG",
@@ -292,13 +320,6 @@
     "source_symbol": "SN74LVC1T45DBV",
     "source_sha256": "cc3fc2e309bba911ee136525dd8b0e87cc70977e871e126a84d24b83f21e6cd7",
     "footprint": "YX55069BCT2:SOT-23-6"
-  },
-  {
-    "symbol": "TPD4E05U06DQAR",
-    "source_library": "Power_Protection.kicad_sym",
-    "source_symbol": "TPD4E05U06DQA",
-    "source_sha256": "e7af99c758ff17246e4fdb360f106602b6c38681e49dcd0e990f5c3039a65e16",
-    "footprint": "YX55069BCT2:USON-10_2.5x1.0mm_P0.5mm"
   },
   {
     "symbol": "TPS22917DBVR",

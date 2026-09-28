@@ -429,7 +429,7 @@
         "uuid": "461fc953-e8b0-4235-a45d-70ee2b2a9187"
       }
     ],
-    "used_designators": "FPC1-2,U1-12,U62-63,#FLG2,#FLG4-5,R1-23,R96-102,R105,J1-2,FB1-2,USB1,#PWR1-53,C1-38,C147,C150,C155-156,D1-2,L3,Q1,X1,SW3-4,OSC1",
+    "used_designators": "FPC1-2,U1-13,U62-64,#FLG2,#FLG4-5,R1-24,R96-108,J1-2,FB1-2,USB1,#PWR1-118,C1-62,C147,C150,C155-157,D1-5,L3,Q1-2,X1,SW3-4,OSC1",
     "variants": []
   },
   "sheets": [

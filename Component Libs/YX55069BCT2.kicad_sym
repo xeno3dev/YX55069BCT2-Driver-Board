@@ -4406,6 +4406,143 @@
           (effects
             (font
               (size 1.27 1.27)))))))
+  (symbol "GJM1555C1H2R2CB01D"
+    (property "Source" "EasyEDA/LCSC C85880 import; footprint copied locally for portable project use"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Voltage" "50 V"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Dielectric" "C0G"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C85880.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C85880"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (at 0 5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "2.2 pF"
+      (at 0 -5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:C0402"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_muRata_GJM1555C1H2R2CB01D_2-2pF-2R2-0-25pF-50V_C85880.html"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "Murata"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "GJM1555C1H2R2CB01D"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C85880"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Multilayer Ceramic Capacitors MLCC - SMD/SMT"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_description" "2.2pF (2R2) ±0.25pF 50V"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "GJM1555C1H2R2CB01D_0_1"
+      (polyline
+        (pts
+          (xy -0.51 -2.03)
+          (xy -0.51 2.03))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 2.54 -0.00)
+          (xy 0.51 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 0.51 2.03)
+          (xy 0.51 -2.03))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -0.51 -0.00)
+          (xy -2.54 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (pin unspecified line
+        (at -5.08 -0.00 0)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 5.08 -0.00 180)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
   (symbol "GRM188R61A106KE69D"
     (property "Source" "EasyEDA/LCSC C77044 import; footprint copied locally for portable project use"
       (at 0 0 0)
@@ -6035,6 +6172,844 @@
             (font
               (size 1.27 1.27))))
         (number "6"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "TPD4E05U06DQAR"
+    (property "Source" "EasyEDA/LCSC C138714 import; footprint copied locally for portable project use"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Role" "Four-channel unidirectional ultra-low-capacitance ESD protection for high-speed interfaces."
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C138714.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C138714"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "D"
+      (at 0 10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "TPD4E05U06DQAR"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:USON-10_L2.5-W1.0-P0.50-BL"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/TVS_TI_TPD4E05U06DQAR_TPD4E05U06DQAR_C138714.html"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "Texas Instruments"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "TPD4E05U06DQAR"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C138714"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "ESD Protection Devices"
+      (at 0 -25.40 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "TPD4E05U06DQAR_0_1"
+      (rectangle
+        (start -7.62 8.13)
+        (end 7.62 -8.13)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (circle
+        (center -6.35 6.86)
+        (radius 0.38)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (circle
+        (center -6.35 6.86)
+        (radius 0.38)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (pin unspecified line
+        (at -10.16 5.08 0)
+        (length 2.54)
+        (name "D1+"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -10.16 2.54 0)
+        (length 2.54)
+        (name "D1-"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -10.16 -0.00 0)
+        (length 2.54)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "3"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -10.16 -2.54 0)
+        (length 2.54)
+        (name "D2+"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "4"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -10.16 -5.08 0)
+        (length 2.54)
+        (name "D2-"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "5"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 10.16 -5.08 180)
+        (length 2.54)
+        (name "NC"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "6"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 10.16 -2.54 180)
+        (length 2.54)
+        (name "NC"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "7"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 10.16 -0.00 180)
+        (length 2.54)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "8"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 10.16 2.54 180)
+        (length 2.54)
+        (name "NC"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "9"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 10.16 5.08 180)
+        (length 2.54)
+        (name "NC"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "10"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "TPD4E02B04DQAR"
+    (property "Source" "EasyEDA/LCSC C106794 import; footprint copied locally for portable project use"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Role" "Four-channel bidirectional 0.25 pF ESD protection for high-speed interfaces."
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C106794.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C106794"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "D"
+      (at 0 15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "TPD4E02B04DQAR"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:USON-10_L2.5-W1.0-P0.50-BL"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/Others_Texas-Instruments_TPD4E02B04DQAR_Texas-Instruments-TI-TPD4E02B04DQAR_C106794.html"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "Texas Instruments"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "TPD4E02B04DQAR"
+      (at 0 -25.40 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C106794"
+      (at 0 -27.94 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "ESD Protection Devices"
+      (at 0 -30.48 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_description" "4-Channel ESD Protection Diode for USB Type-C and HDMI 2.0 10-USON -40 to 125"
+      (at 0 -33.02 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "TPD4E02B04DQAR_0_1"
+      (rectangle
+        (start -8.89 12.70)
+        (end 8.89 -12.70)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (circle
+        (center 2.54 -0.00)
+        (radius 0.25)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.78 8.38)
+          (xy -1.27 8.89))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 8.89)
+          (xy -1.27 10.16))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 10.16)
+          (xy -1.27 11.43))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 11.43)
+          (xy -0.76 11.94))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.78 3.30)
+          (xy -1.27 3.81))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 3.81)
+          (xy -1.27 5.08))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 5.08)
+          (xy -1.27 6.35))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 6.35)
+          (xy -0.76 6.86))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.78 -6.86)
+          (xy -1.27 -6.35))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 -6.35)
+          (xy -1.27 -5.08))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 -5.08)
+          (xy -1.27 -3.81))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 -3.81)
+          (xy -0.76 -3.30))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.78 -11.94)
+          (xy -1.27 -11.43))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 -11.43)
+          (xy -1.27 -10.16))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 -10.16)
+          (xy -1.27 -8.89))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 -8.89)
+          (xy -0.76 -8.38))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -3.81 10.16)
+          (xy -8.89 10.16))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -3.81 5.08)
+          (xy -8.89 5.08))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -3.81 -5.08)
+          (xy -8.89 -5.08))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -3.81 -10.16)
+          (xy -8.89 -10.16))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 2.54 10.16)
+          (xy 1.27 10.16))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 2.54 10.16)
+          (xy 2.54 -10.16))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 2.54 -10.16)
+          (xy 1.27 -10.16))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 2.54 5.08)
+          (xy 1.27 5.08))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 2.54 -5.08)
+          (xy 1.27 -5.08))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 8.89 -0.00)
+          (xy -8.89 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -3.81 11.43)
+          (xy -1.27 10.16)
+          (xy -3.81 8.89)
+          (xy -3.81 11.43))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (polyline
+        (pts
+          (xy 1.27 11.43)
+          (xy -1.27 10.16)
+          (xy 1.27 8.89)
+          (xy 1.27 11.43))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (polyline
+        (pts
+          (xy -3.81 6.35)
+          (xy -1.27 5.08)
+          (xy -3.81 3.81)
+          (xy -3.81 6.35))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (polyline
+        (pts
+          (xy 1.27 6.35)
+          (xy -1.27 5.08)
+          (xy 1.27 3.81)
+          (xy 1.27 6.35))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (polyline
+        (pts
+          (xy -3.81 -3.81)
+          (xy -1.27 -5.08)
+          (xy -3.81 -6.35)
+          (xy -3.81 -3.81))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (polyline
+        (pts
+          (xy 1.27 -3.81)
+          (xy -1.27 -5.08)
+          (xy 1.27 -6.35)
+          (xy 1.27 -3.81))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (polyline
+        (pts
+          (xy -3.81 -8.89)
+          (xy -1.27 -10.16)
+          (xy -3.81 -11.43)
+          (xy -3.81 -8.89))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (polyline
+        (pts
+          (xy 1.27 -8.89)
+          (xy -1.27 -10.16)
+          (xy 1.27 -11.43)
+          (xy 1.27 -8.89))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (pin unspecified line
+        (at -11.43 10.16 0)
+        (length 2.54)
+        (name "IO1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 11.43 -0.00 180)
+        (length 2.54)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "8"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -11.43 5.08 0)
+        (length 2.54)
+        (name "IO2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -11.43 -5.08 0)
+        (length 2.54)
+        (name "IO3"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "4"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -11.43 -10.16 0)
+        (length 2.54)
+        (name "IO4"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "5"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 11.43 -10.16 180)
+        (length 2.54)
+        (name "NC"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "6"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 11.43 -5.08 180)
+        (length 2.54)
+        (name "NC"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "7"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 11.43 5.08 180)
+        (length 2.54)
+        (name "NC"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "9"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 11.43 10.16 180)
+        (length 2.54)
+        (name "NC"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "10"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -11.43 -0.00 0)
+        (length 2.54)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "3"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "0402WGF4322TCE"
+    (property "Source" "EasyEDA/LCSC C25894 import; footprint copied locally for portable project use"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Voltage" "50 V"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Power" "62.5 mW"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Tolerance" "1%"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C25894.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C25894"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (at 0 5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "43.2 kOhm"
+      (at 0 -5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:R0402"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_43-2KR-4322-1_C25894.html"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "UNI-ROYAL"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "0402WGF4322TCE"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C25894"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Resistors"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_description" "43.2KΩ (4322) ±1%"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "0402WGF4322TCE_0_1"
+      (rectangle
+        (start -2.54 1.02)
+        (end 2.54 -1.02)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (pin input line
+        (at 5.08 -0.00 180)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin input line
+        (at -5.08 -0.00 0)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
           (effects
             (font
               (size 1.27 1.27)))))))
@@ -9638,565 +10613,6 @@
             (font
               (size 1.27 1.27))))))
     (embedded_fonts no))
-  (symbol "TPD4E05U06DQAR"
-    (property "Role" "Low-capacitance ESD for HDMI TMDS; use two for all eight conductors"
-      (at 0 0 0)
-      (effects
-        (font
-          (size 1.27 1.27))
-        (hide yes)))
-    (property "MPN" "TPD4E05U06DQAR"
-      (at 0 0 0)
-      (effects
-        (font
-          (size 1.27 1.27))
-        (hide yes)))
-    (pin_names
-      (offset 0))
-    (exclude_from_sim no)
-    (in_bom yes)
-    (on_board yes)
-    (in_pos_files yes)
-    (duplicate_pin_numbers_are_jumpers no)
-    (symbol "TPD4E05U06DQAR_0_0"
-      (rectangle
-        (start -5.715 6.477)
-        (end 5.715 -6.604)
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy -3.175 -6.604)
-          (xy -3.175 6.477))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy 0 6.477)
-          (xy 0 -6.604))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy 3.175 6.477)
-          (xy 3.175 -6.604))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none))))
-    (symbol "TPD4E05U06DQAR_0_1"
-      (polyline
-        (pts
-          (xy -7.747 2.54)
-          (xy -3.175 2.54))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (rectangle
-        (start -7.62 7.62)
-        (end 7.62 -7.62)
-        (stroke
-          (width 0.254)
-          (type default))
-        (fill
-          (type background)))
-      (polyline
-        (pts
-          (xy -7.62 -2.54)
-          (xy -5.715 -2.54))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (circle
-        (center -5.715 -2.54)
-        (radius 0.2794)
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type outline)))
-      (polyline
-        (pts
-          (xy -5.08 5.08)
-          (xy -6.35 5.08))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy -5.08 3.81)
-          (xy -6.35 3.81)
-          (xy -5.715 5.08)
-          (xy -5.08 3.81))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy -5.08 -3.81)
-          (xy -6.35 -3.81))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy -5.08 -5.08)
-          (xy -6.35 -5.08)
-          (xy -5.715 -3.81)
-          (xy -5.08 -5.08))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (circle
-        (center -3.175 6.477)
-        (radius 0.2794)
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type outline)))
-      (circle
-        (center -3.175 2.54)
-        (radius 0.2794)
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type outline)))
-      (circle
-        (center -3.175 -6.604)
-        (radius 0.2794)
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type outline)))
-      (polyline
-        (pts
-          (xy -2.54 5.08)
-          (xy -3.81 5.08))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy -2.54 3.81)
-          (xy -3.81 3.81)
-          (xy -3.175 5.08)
-          (xy -2.54 3.81))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy -2.54 -3.81)
-          (xy -3.81 -3.81))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy -2.54 -5.08)
-          (xy -3.81 -5.08)
-          (xy -3.175 -3.81)
-          (xy -2.54 -5.08))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy -0.635 0.889)
-          (xy -1.016 0.635))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (circle
-        (center 0 6.477)
-        (radius 0.2794)
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type outline)))
-      (polyline
-        (pts
-          (xy 0 -6.604)
-          (xy 0 -7.62))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (circle
-        (center 0 -6.604)
-        (radius 0.2794)
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type outline)))
-      (polyline
-        (pts
-          (xy 0.635 0.889)
-          (xy -0.635 0.889))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy 0.635 0.889)
-          (xy 1.016 1.143))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy 0.635 -0.381)
-          (xy -0.635 -0.381)
-          (xy 0 0.889)
-          (xy 0.635 -0.381))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (circle
-        (center 3.175 6.477)
-        (radius 0.2794)
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type outline)))
-      (circle
-        (center 3.175 -2.54)
-        (radius 0.2794)
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type outline)))
-      (circle
-        (center 3.175 -6.604)
-        (radius 0.2794)
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type outline)))
-      (polyline
-        (pts
-          (xy 3.81 5.08)
-          (xy 2.54 5.08))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy 3.81 3.81)
-          (xy 2.54 3.81)
-          (xy 3.175 5.08)
-          (xy 3.81 3.81))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy 3.81 -3.81)
-          (xy 2.54 -3.81))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy 3.81 -5.08)
-          (xy 2.54 -5.08)
-          (xy 3.175 -3.81)
-          (xy 3.81 -5.08))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (circle
-        (center 5.715 2.54)
-        (radius 0.2794)
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type outline)))
-      (polyline
-        (pts
-          (xy 6.35 5.08)
-          (xy 5.08 5.08))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy 6.35 3.81)
-          (xy 5.08 3.81)
-          (xy 5.715 5.08)
-          (xy 6.35 3.81))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy 6.35 -3.81)
-          (xy 5.08 -3.81))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy 6.35 -5.08)
-          (xy 5.08 -5.08)
-          (xy 5.715 -3.81)
-          (xy 6.35 -5.08))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy 7.62 2.54)
-          (xy 5.715 2.54))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none)))
-      (polyline
-        (pts
-          (xy 7.62 -2.54)
-          (xy 3.175 -2.54))
-        (stroke
-          (width 0)
-          (type default))
-        (fill
-          (type none))))
-    (symbol "TPD4E05U06DQAR_1_1"
-      (pin passive line
-        (at -12.7 2.54 0)
-        (length 5.08)
-        (name "D1+"
-          (effects
-            (font
-              (size 1.27 1.27))))
-        (number "1"
-          (effects
-            (font
-              (size 1.27 1.27)))))
-      (pin passive line
-        (at -12.7 -2.54 0)
-        (length 5.08)
-        (name "D1-"
-          (effects
-            (font
-              (size 1.27 1.27))))
-        (number "2"
-          (effects
-            (font
-              (size 1.27 1.27)))))
-      (pin power_in line
-        (at 0 -12.7 90)
-        (length 5.08)
-        (name "GND"
-          (effects
-            (font
-              (size 1.27 1.27))))
-        (number "3"
-          (effects
-            (font
-              (size 1.27 1.27)))))
-      (pin passive line
-        (at 12.7 2.54 180)
-        (length 5.08)
-        (name "D2+"
-          (effects
-            (font
-              (size 1.27 1.27))))
-        (number "4"
-          (effects
-            (font
-              (size 1.27 1.27)))))
-      (pin passive line
-        (at 12.7 -2.54 180)
-        (length 5.08)
-        (name "D2-"
-          (effects
-            (font
-              (size 1.27 1.27))))
-        (number "5"
-          (effects
-            (font
-              (size 1.27 1.27)))))
-      (pin free line
-        (at 12.7 -7.62 180)
-        (length 5.08)
-        (name "NC"
-          (effects
-            (font
-              (size 1.27 1.27))))
-        (number "6"
-          (effects
-            (font
-              (size 1.27 1.27)))))
-      (pin free line
-        (at 12.7 7.62 180)
-        (length 5.08)
-        (name "NC"
-          (effects
-            (font
-              (size 1.27 1.27))))
-        (number "7"
-          (effects
-            (font
-              (size 1.27 1.27)))))
-      (pin passive line
-        (at 0 -12.7 90)
-        (length 5.08)
-        (hide yes)
-        (name "GND"
-          (effects
-            (font
-              (size 1.27 1.27))))
-        (number "8"
-          (effects
-            (font
-              (size 1.27 1.27)))))
-      (pin free line
-        (at -12.7 -7.62 0)
-        (length 5.08)
-        (name "NC"
-          (effects
-            (font
-              (size 1.27 1.27))))
-        (number "9"
-          (effects
-            (font
-              (size 1.27 1.27)))))
-      (pin free line
-        (at -12.7 7.62 0)
-        (length 5.08)
-        (name "NC"
-          (effects
-            (font
-              (size 1.27 1.27))))
-        (number "10"
-          (effects
-            (font
-              (size 1.27 1.27))))))
-    (embedded_fonts no)
-    (property "Reference" "U"
-      (at -0.635 8.89 0)
-      (show_name no)
-      (do_not_autoplace no)
-      (effects
-        (font
-          (size 1.27 1.27))))
-    (property "Value" "TPD4E05U06DQAR"
-      (at 1.905 -10.16 0)
-      (show_name no)
-      (do_not_autoplace no)
-      (effects
-        (font
-          (size 1.27 1.27))
-        (justify left)))
-    (property "Footprint" "YX55069BCT2:USON-10_2.5x1.0mm_P0.5mm"
-      (at 1.905 -12.065 0)
-      (show_name no)
-      (do_not_autoplace no)
-      (hide yes)
-      (effects
-        (font
-          (size 1.27 1.27)
-          (italic yes))
-        (justify left)))
-    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd4e05u06.pdf"
-      (at 1.905 -13.97 0)
-      (show_name no)
-      (do_not_autoplace no)
-      (hide yes)
-      (effects
-        (font
-          (size 1.27 1.27))
-        (justify left)))
-    (property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
-      (at 0 0 0)
-      (show_name no)
-      (do_not_autoplace no)
-      (hide yes)
-      (effects
-        (font
-          (size 1.27 1.27))))
-    (property "ki_keywords" "ESD protection USB 3.0"
-      (at 0 0 0)
-      (show_name no)
-      (do_not_autoplace no)
-      (hide yes)
-      (effects
-        (font
-          (size 1.27 1.27))))
-    (property "ki_fp_filters" "USON*2.5x1.0mm*P0.5mm*"
-      (at 0 0 0)
-      (show_name no)
-      (do_not_autoplace no)
-      (hide yes)
-      (effects
-        (font
-          (size 1.27 1.27)))))
   (symbol "TPS22917DBVR"
     (property "Role" "Optional controlled panel power/load switch; current budget still required"
       (at 0 0 0)
