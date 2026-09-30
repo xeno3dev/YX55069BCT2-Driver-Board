@@ -1,7 +1,7 @@
 (module "R0402"
   (layer F.Cu)
   (tedit 5DC5F6A4)
-  (descr "43.2KΩ (4322) ±1%")
+  (descr "1.1KΩ (1101) ±1%")
   (attr smd)
   (fp_text reference REF**
     (at 0.000 -4.000)
@@ -24,7 +24,7 @@
       (font
         (size 1 1)
         (thickness 0.15))))
-  (property "LCSC Part" "C25894")
+  (property "LCSC Part" "C25860")
   (fp_line
     (start -0.23 0.50)
     (end -0.94 0.50)

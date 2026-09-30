@@ -7013,6 +7013,1916 @@
           (effects
             (font
               (size 1.27 1.27)))))))
+  (symbol "CC0805KKX5R9BB475"
+    (property "Source" "EasyEDA/LCSC C2897302 import; footprint copied locally for portable project use"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Replaces" "GRM188R61C475KE11D / C77045 only where 0805 land pattern is allowed."
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Tolerance" "10%"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Voltage" "50 V"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Dielectric" "X5R"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C2897302.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C2897302"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (at 0 5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "4.7 uF"
+      (at 0 -5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:C0805"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://www.lcsc.com/datasheet/C2897302.pdf"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "Yageo"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "CC0805KKX5R9BB475"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C2897302"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Multilayer Ceramic Capacitors MLCC - SMD/SMT"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "CC0805KKX5R9BB475_0_1"
+      (polyline
+        (pts
+          (xy -0.51 -2.03)
+          (xy -0.51 2.03))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 2.54 -0.00)
+          (xy 0.51 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 0.51 2.03)
+          (xy 0.51 -2.03))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -0.51 -0.00)
+          (xy -2.54 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (pin unspecified line
+        (at -5.08 -0.00 0)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 5.08 -0.00 180)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "TXS0101DBVR"
+    (property "Source" "EasyEDA/LCSC C132604 import; footprint copied locally for portable project use"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Role" "Single-bit auto-direction bidirectional level shifter; VCCA 1.65–3.6 V, VCCB 2.3–5.5 V, VCCA must not exceed VCCB."
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C132604.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C132604"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "U"
+      (at 0 7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "TXS0101DBVR"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/Logic-ICs_TI_TXS0101DBVR_TXS0101DBVR_C132604.html"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "Texas Instruments"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "TXS0101DBVR"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C132604"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Translators / Level Shifters"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "TXS0101DBVR_0_1"
+      (rectangle
+        (start -10.16 5.59)
+        (end 10.16 -5.59)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (circle
+        (center -8.89 4.32)
+        (radius 0.38)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (circle
+        (center -8.89 4.32)
+        (radius 0.38)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (pin unspecified line
+        (at -12.70 2.54 0)
+        (length 2.54)
+        (name "VCCA"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -12.70 -0.00 0)
+        (length 2.54)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -12.70 -2.54 0)
+        (length 2.54)
+        (name "A"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "3"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 12.70 -2.54 180)
+        (length 2.54)
+        (name "B"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "4"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 12.70 -0.00 180)
+        (length 2.54)
+        (name "OE"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "5"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 12.70 2.54 180)
+        (length 2.54)
+        (name "VCCB"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "6"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "TPS61165DBVR"
+    (property "Source" "EasyEDA/LCSC C58756 import; footprint copied locally for portable project use"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Role" "Single-string boost white-LED driver; 3–18 V input, 38 V open-LED protection, external resistor programs LED current."
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C58756.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C58756"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "U"
+      (at 0 7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "TPS61165DBVR"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TPS61165DBVR_TPS61165DBVR_C58756.html"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "Texas Instruments"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "TPS61165DBVR"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C58756"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "LED Drivers"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "TPS61165DBVR_0_1"
+      (rectangle
+        (start -10.16 5.59)
+        (end 10.16 -5.59)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (circle
+        (center -8.89 4.32)
+        (radius 0.38)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (circle
+        (center -8.89 4.32)
+        (radius 0.38)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (pin unspecified line
+        (at -12.70 2.54 0)
+        (length 2.54)
+        (name "VIN"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -12.70 -0.00 0)
+        (length 2.54)
+        (name "CTRL"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -12.70 -2.54 0)
+        (length 2.54)
+        (name "SW"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "3"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 12.70 -2.54 180)
+        (length 2.54)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "4"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 12.70 -0.00 180)
+        (length 2.54)
+        (name "COMP"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "5"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 12.70 2.54 180)
+        (length 2.54)
+        (name "FB"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "6"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "CL05B224KO5NNNC"
+    (property "Source" "EasyEDA/LCSC C16772 import; footprint copied locally for portable project use"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Tolerance" "10%"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Voltage" "16 V"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Dielectric" "X7R"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C16772.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C16772"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (at 0 5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "220 nF"
+      (at 0 -5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:C0402"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B224KO5NNNC_220nF-224-10-16V_C16772.html"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "Samsung Electro-Mechanics"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "CL05B224KO5NNNC"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C16772"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Multilayer Ceramic Capacitors MLCC - SMD/SMT"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_description" "220nF (224) ±10% 16V"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "CL05B224KO5NNNC_0_1"
+      (polyline
+        (pts
+          (xy -0.51 2.03)
+          (xy -0.51 -2.03))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 0.51 2.03)
+          (xy 0.51 -2.03))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 -0.00)
+          (xy -0.51 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 0.51 -0.00)
+          (xy 1.27 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (pin input line
+        (at -3.81 -0.00 0)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin input line
+        (at 3.81 -0.00 180)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "CSRT0402FT5R00"
+    (property "Source" "EasyEDA/LCSC C6888654 import; stocked exact-value fallback after no stocked Asian-brand 5 Ohm listing was verified"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Voltage" "50 V"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Power" "250 mW"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Tolerance" "1%"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C6888654.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C6888654"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (at 0 5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "5 Ohm"
+      (at 0 -5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:R0402"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://www.lcsc.com/datasheet/C6888654.pdf"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "SEI (Stackpole Electronics)"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "CSRT0402FT5R00"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C6888654"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Chip Resistor - Surface Mount"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "CSRT0402FT5R00_0_1"
+      (rectangle
+        (start -2.54 1.27)
+        (end 2.54 -1.27)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (pin unspecified line
+        (at 5.08 -0.00 180)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -5.08 -0.00 0)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "CC1206KKX5R9BB106"
+    (property "Source" "EasyEDA/LCSC C100122 import; footprint copied locally for portable project use"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Tolerance" "10%"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Voltage" "50 V"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Dielectric" "X5R"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C100122.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C100122"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (at 0 5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "10 uF"
+      (at 0 -5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:C1206"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_10uF-106-10-50V_C100122.html"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "Yageo"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "CC1206KKX5R9BB106"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C100122"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Multilayer Ceramic Capacitors MLCC - SMD/SMT"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "CC1206KKX5R9BB106_0_1"
+      (polyline
+        (pts
+          (xy -0.51 2.03)
+          (xy -0.51 -2.03))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 0.51 2.03)
+          (xy 0.51 -2.03))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 -0.00)
+          (xy -0.51 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 0.51 -0.00)
+          (xy 1.27 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (pin input line
+        (at -3.81 -0.00 0)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin input line
+        (at 3.81 -0.00 180)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "TPS259474LRPWR"
+    (property "Source" "EasyEDA/LCSC C2864845 import; footprint copied locally for portable project use"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Role" "Adjustable eFuse with overvoltage cutoff and latch-off; set the board cutoff and current limit using its external resistors."
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C2864845.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C2864845"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "U"
+      (at 0 19.05 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "TPS259474LRPWR"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:VQFN-10_L2.0-W2.0-P0.45-TL"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps25947.pdf"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "Texas Instruments"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "TPS259474LRPWR"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C2864845"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "TPS259474LRPWR_0_1"
+      (rectangle
+        (start -19.05 16.51)
+        (end 20.32 -7.62)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (pin unspecified line
+        (at -21.59 8.89 0)
+        (length 2.54)
+        (name "EN/UVLO"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -21.59 3.81 0)
+        (length 2.54)
+        (name "OVLO/OVCSEL"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 22.86 3.81 180)
+        (length 2.54)
+        (name "PG/AUXOFF"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "3"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 22.86 8.89 180)
+        (length 2.54)
+        (name "PGTH/~{FLT}"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "4"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -21.59 13.97 0)
+        (length 2.54)
+        (name "IN"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "5"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 22.86 13.97 180)
+        (length 2.54)
+        (name "OUT"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "6"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -3.81 -5.08 270)
+        (length 2.54)
+        (name "DVDT"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "7"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 6.35 -5.08 270)
+        (length 2.54)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "8"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 16.51 -5.08 270)
+        (length 2.54)
+        (name "ILM"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "9"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -12.70 -5.08 270)
+        (length 2.54)
+        (name "ITIMER"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "10"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "TVS0500DRVR"
+    (property "Source" "EasyEDA/LCSC C609571 import; footprint copied locally for portable project use"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Role" "5 V VBUS transient-voltage suppressor."
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C609571.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C609571"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "U"
+      (at 0 8.89 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "TVS0500DRVR"
+      (at 0 -8.89 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:WSON-6_L2.0-W2.0-P0.65-BL-EP"
+      (at 0 -11.43 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://www.lcsc.com/datasheet/C609571.pdf"
+      (at 0 -13.97 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "Texas Instruments"
+      (at 0 -16.51 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "TVS0500DRVR"
+      (at 0 -19.05 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C609571"
+      (at 0 -21.59 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "TVS"
+      (at 0 -24.13 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "TVS0500DRVR_0_1"
+      (rectangle
+        (start -6.35 6.35)
+        (end 6.35 -6.35)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (circle
+        (center -5.08 5.08)
+        (radius 0.38)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (pin unspecified line
+        (at -8.89 3.81 0)
+        (length 2.54)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -8.89 1.27 0)
+        (length 2.54)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -8.89 -1.27 0)
+        (length 2.54)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "3"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 8.89 -0.00 180)
+        (length 2.54)
+        (name "IN"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "5"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 8.89 2.54 180)
+        (length 2.54)
+        (name "IN"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "6"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at 8.89 -2.54 180)
+        (length 2.54)
+        (name "IN"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "4"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -8.89 -3.81 0)
+        (length 2.54)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "7"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "0402WGF3483TCE"
+    (property "Source" "EasyEDA/LCSC C25780 import; eFuse EN/UVLO divider resistor"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Voltage" "50 V"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Tolerance" "1%"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C25780.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C25780"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (at 0 5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "348 kOhm"
+      (at 0 -5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:R0402"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_348KR-3483-1_C25780.html"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "UNI-ROYAL"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "0402WGF3483TCE"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C25780"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Resistors"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_description" "348KΩ (3483) ±1%"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "0402WGF3483TCE_0_1"
+      (rectangle
+        (start -2.54 1.02)
+        (end 2.54 -1.02)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (pin input line
+        (at 5.08 -0.00 180)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin input line
+        (at -5.08 -0.00 0)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "0402WGF3162TCE"
+    (property "Source" "EasyEDA/LCSC C11463 import; eFuse EN/UVLO-to-OVLO divider resistor"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Voltage" "50 V"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Tolerance" "1%"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C11463.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C11463"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (at 0 5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "31.6 kOhm"
+      (at 0 -5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:R0402"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_31-6KR-3162-1_C11463.html"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "UNI-ROYAL"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "0402WGF3162TCE"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C11463"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Resistors"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_description" "31.6KΩ (3162) ±1%"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "0402WGF3162TCE_0_1"
+      (rectangle
+        (start -2.54 1.02)
+        (end 2.54 -1.02)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (pin input line
+        (at 5.08 -0.00 180)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin input line
+        (at -5.08 -0.00 0)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "0402WGF1003TCE"
+    (property "Source" "EasyEDA/LCSC C25741 import; eFuse OVLO-to-ground divider resistor"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Voltage" "50 V"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Tolerance" "1%"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C25741.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C25741"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (at 0 5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "100 kOhm"
+      (at 0 -5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:R0402"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_100KR-1003-1_C25741.html"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "UNI-ROYAL"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "0402WGF1003TCE"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C25741"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Resistors"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_description" "100KΩ (1003) ±1%"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "0402WGF1003TCE_0_1"
+      (rectangle
+        (start -2.54 1.02)
+        (end 2.54 -1.02)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (pin input line
+        (at 5.08 -0.00 180)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin input line
+        (at -5.08 -0.00 0)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "0402WGF1101TCE"
+    (property "Source" "EasyEDA/LCSC C25860 import; eFuse ILM resistor for approximately 3 A current limit"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Voltage" "50 V"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Tolerance" "1%"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C25860.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C25860"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (at 0 5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "1.10 kOhm"
+      (at 0 -5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:R0402"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_1-1KR-1101-1_C25860.html"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "UNI-ROYAL"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "0402WGF1101TCE"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C25860"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Resistors"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_description" "1.1KΩ (1101) ±1%"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "0402WGF1101TCE_0_1"
+      (rectangle
+        (start -2.54 1.02)
+        (end 2.54 -1.02)
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type background)))
+      (pin input line
+        (at 5.08 -0.00 180)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin input line
+        (at -5.08 -0.00 0)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "CL05B102KB5NNNC"
+    (property "Source" "EasyEDA/LCSC C14442 import; eFuse dVdt soft-start capacitor"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Tolerance" "10%"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Voltage" "50 V"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Dielectric" "X7R"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C14442.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C14442"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (at 0 5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "1 nF"
+      (at 0 -5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:C0402"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B102KB5NNNC_1nF-102-10-50V_C14442.html"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "Samsung Electro-Mechanics"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "CL05B102KB5NNNC"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C14442"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Multilayer Ceramic Capacitors MLCC - SMD/SMT"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_description" "1nF (102) ±10% 50V"
+      (at 0 -22.86 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "CL05B102KB5NNNC_0_1"
+      (polyline
+        (pts
+          (xy -0.51 2.03)
+          (xy -0.51 -2.03))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 0.51 2.03)
+          (xy 0.51 -2.03))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -1.27 -0.00)
+          (xy -0.51 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 0.51 -0.00)
+          (xy 1.27 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (pin input line
+        (at -3.81 -0.00 0)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin input line
+        (at 3.81 -0.00 180)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
+  (symbol "CL05B222KB5NNNC"
+    (property "Source" "EasyEDA/LCSC C84703 import; eFuse ITIMER capacitor"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Tolerance" "10%"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Voltage" "50 V"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "Dielectric" "X7R"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC Link" "https://www.lcsc.com/product-detail/C84703.html"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (property "LCSC" "C84703"
+      (at 0 0 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (hide yes)))
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (at 0 5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Value" "2.2 nF"
+      (at 0 -5.08 0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "Footprint" "YX55069BCT2:C0402"
+      (at 0 -7.62 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://lcsc.com/product-detail/_SAMSUNG_CL05B222KB5NNNC_0402-222P-50V-10-X7R_C84703.html"
+      (at 0 -10.16 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Manufacturer" "Samsung Electro-Mechanics"
+      (at 0 -12.70 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "MPN" "CL05B222KB5NNNC"
+      (at 0 -15.24 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "LCSC Part" "C84703"
+      (at 0 -17.78 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" "Multilayer Ceramic Capacitors MLCC - SMD/SMT"
+      (at 0 -20.32 0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (symbol "CL05B222KB5NNNC_0_1"
+      (polyline
+        (pts
+          (xy 0.51 2.03)
+          (xy 0.51 -2.03))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -2.54 -0.00)
+          (xy -0.51 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy -0.51 -2.03)
+          (xy -0.51 2.03))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (polyline
+        (pts
+          (xy 0.51 -0.00)
+          (xy 2.54 -0.00))
+        (stroke
+          (width 0)
+          (type default))
+        (fill
+          (type none)))
+      (pin unspecified line
+        (at 5.08 -0.00 180)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin unspecified line
+        (at -5.08 -0.00 0)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))))
   (symbol "TC358870XBG(NOK)"
     (property "Source" "EasyEDA/LCSC C3008712 import; pin-map validation in validation report"
       (at 0 0 0)

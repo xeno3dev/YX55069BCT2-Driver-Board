@@ -5,4 +5,10 @@
     (type "KiCad")
     (uri "${KIPRJMOD}/../Component Libs/YX55069BCT2.pretty")
     (options "")
-    (descr "Portable YX55069BCT2 driver-board library")))
+    (descr "Portable YX55069BCT2 driver-board library"))
+  (lib
+    (name "slate113")
+    (type "KiCad")
+    (uri "${KIPRJMOD}/../Component Libs/slate113.pretty")
+    (options "")
+    (descr "Imported Slate113 footprints used by this board")))

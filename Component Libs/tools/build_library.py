@@ -235,6 +235,92 @@ add(base/'sources/C25894_import.kicad_sym', '0402WGF4322TCE', fields={
     'Value':'43.2 kOhm', 'Tolerance':'1%', 'Power':'62.5 mW', 'Voltage':'50 V',
     'Source':'EasyEDA/LCSC C25894 import; footprint copied locally for portable project use'})
 
+add(base/'sources/C2897302_import.kicad_sym', 'CC0805KKX5R9BB475', fields={
+    'MPN':'CC0805KKX5R9BB475', 'Manufacturer':'Yageo', 'LCSC':'C2897302',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C2897302.html',
+    'Value':'4.7 uF', 'Dielectric':'X5R', 'Voltage':'50 V', 'Tolerance':'10%',
+    'Replaces':'GRM188R61C475KE11D / C77045 only where 0805 land pattern is allowed.',
+    'Source':'EasyEDA/LCSC C2897302 import; footprint copied locally for portable project use'})
+
+add(base/'sources/C132604_import.kicad_sym', 'TXS0101DBVR', fields={
+    'MPN':'TXS0101DBVR', 'Manufacturer':'Texas Instruments', 'LCSC':'C132604',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C132604.html',
+    'Role':'Single-bit auto-direction bidirectional level shifter; VCCA 1.65–3.6 V, VCCB 2.3–5.5 V, VCCA must not exceed VCCB.',
+    'Source':'EasyEDA/LCSC C132604 import; footprint copied locally for portable project use'})
+
+add(base/'sources/C58756_import.kicad_sym', 'TPS61165DBVR', fields={
+    'MPN':'TPS61165DBVR', 'Manufacturer':'Texas Instruments', 'LCSC':'C58756',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C58756.html',
+    'Role':'Single-string boost white-LED driver; 3–18 V input, 38 V open-LED protection, external resistor programs LED current.',
+    'Source':'EasyEDA/LCSC C58756 import; footprint copied locally for portable project use'})
+
+add(base/'sources/C16772_import.kicad_sym', 'CL05B224KO5NNNC', fields={
+    'MPN':'CL05B224KO5NNNC', 'Manufacturer':'Samsung Electro-Mechanics', 'LCSC':'C16772',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C16772.html',
+    'Value':'220 nF', 'Dielectric':'X7R', 'Voltage':'16 V', 'Tolerance':'10%',
+    'Source':'EasyEDA/LCSC C16772 import; footprint copied locally for portable project use'})
+
+add(base/'sources/C6888654_import.kicad_sym', 'CSRT0402FT5R00', fields={
+    'MPN':'CSRT0402FT5R00', 'Manufacturer':'SEI (Stackpole Electronics)', 'LCSC':'C6888654',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C6888654.html',
+    'Value':'5 Ohm', 'Tolerance':'1%', 'Power':'250 mW', 'Voltage':'50 V',
+    'Source':'EasyEDA/LCSC C6888654 import; stocked exact-value fallback after no stocked Asian-brand 5 Ohm listing was verified'})
+
+add(base/'sources/C100122_import.kicad_sym', 'CC1206KKX5R9BB106', fields={
+    'MPN':'CC1206KKX5R9BB106', 'Manufacturer':'Yageo', 'LCSC':'C100122',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C100122.html',
+    'Value':'10 uF', 'Dielectric':'X5R', 'Voltage':'50 V', 'Tolerance':'10%',
+    'Source':'EasyEDA/LCSC C100122 import; footprint copied locally for portable project use'})
+
+add(base/'sources/C2864845_import.kicad_sym', 'TPS259474LRPWR', fields={
+    'MPN':'TPS259474LRPWR', 'Manufacturer':'Texas Instruments', 'LCSC':'C2864845',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C2864845.html',
+    'Datasheet':'https://www.ti.com/lit/ds/symlink/tps25947.pdf',
+    'Role':'Adjustable eFuse with overvoltage cutoff and latch-off; set the board cutoff and current limit using its external resistors.',
+    'Source':'EasyEDA/LCSC C2864845 import; footprint copied locally for portable project use'})
+
+add(base/'sources/C609571_import.kicad_sym', 'TVS0500DRVR', fields={
+    'MPN':'TVS0500DRVR', 'Manufacturer':'Texas Instruments', 'LCSC':'C609571',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C609571.html',
+    'Role':'5 V VBUS transient-voltage suppressor.',
+    'Source':'EasyEDA/LCSC C609571 import; footprint copied locally for portable project use'})
+
+add(base/'sources/C25780_import.kicad_sym', '0402WGF3483TCE', fields={
+    'MPN':'0402WGF3483TCE', 'Manufacturer':'UNI-ROYAL', 'LCSC':'C25780',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C25780.html',
+    'Value':'348 kOhm', 'Tolerance':'1%', 'Voltage':'50 V',
+    'Source':'EasyEDA/LCSC C25780 import; eFuse EN/UVLO divider resistor'})
+
+add(base/'sources/C11463_import.kicad_sym', '0402WGF3162TCE', fields={
+    'MPN':'0402WGF3162TCE', 'Manufacturer':'UNI-ROYAL', 'LCSC':'C11463',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C11463.html',
+    'Value':'31.6 kOhm', 'Tolerance':'1%', 'Voltage':'50 V',
+    'Source':'EasyEDA/LCSC C11463 import; eFuse EN/UVLO-to-OVLO divider resistor'})
+
+add(base/'sources/C25741_import.kicad_sym', '0402WGF1003TCE', fields={
+    'MPN':'0402WGF1003TCE', 'Manufacturer':'UNI-ROYAL', 'LCSC':'C25741',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C25741.html',
+    'Value':'100 kOhm', 'Tolerance':'1%', 'Voltage':'50 V',
+    'Source':'EasyEDA/LCSC C25741 import; eFuse OVLO-to-ground divider resistor'})
+
+add(base/'sources/C25860_import.kicad_sym', '0402WGF1101TCE', fields={
+    'MPN':'0402WGF1101TCE', 'Manufacturer':'UNI-ROYAL', 'LCSC':'C25860',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C25860.html',
+    'Value':'1.10 kOhm', 'Tolerance':'1%', 'Voltage':'50 V',
+    'Source':'EasyEDA/LCSC C25860 import; eFuse ILM resistor for approximately 3 A current limit'})
+
+add(base/'sources/C14442_import.kicad_sym', 'CL05B102KB5NNNC', fields={
+    'MPN':'CL05B102KB5NNNC', 'Manufacturer':'Samsung Electro-Mechanics', 'LCSC':'C14442',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C14442.html',
+    'Value':'1 nF', 'Dielectric':'X7R', 'Voltage':'50 V', 'Tolerance':'10%',
+    'Source':'EasyEDA/LCSC C14442 import; eFuse dVdt soft-start capacitor'})
+
+add(base/'sources/C84703_import.kicad_sym', 'CL05B222KB5NNNC', fields={
+    'MPN':'CL05B222KB5NNNC', 'Manufacturer':'Samsung Electro-Mechanics', 'LCSC':'C84703',
+    'LCSC Link':'https://www.lcsc.com/product-detail/C84703.html',
+    'Value':'2.2 nF', 'Dielectric':'X7R', 'Voltage':'50 V', 'Tolerance':'10%',
+    'Source':'EasyEDA/LCSC C84703 import; eFuse ITIMER capacitor'})
+
 bridge=add(base/'sources/tc358870_import.kicad_sym','TC358870XBG','TC358870XBG(NOK)',fields={
     'MPN':'TC358870XBG(NOK)','LCSC':'C3008712',
     'Datasheet':'https://www.lcsc.com/datasheet/C3008712.pdf',

@@ -231,6 +231,104 @@
     "footprint": "YX55069BCT2:R0402"
   },
   {
+    "symbol": "CC0805KKX5R9BB475",
+    "source_library": "C2897302_import.kicad_sym",
+    "source_symbol": "CC0805KKX5R9BB475",
+    "source_sha256": "f54551372c2e61ec861e4266bf7002150653fccb78b961a2cbfde2415aaf24bf",
+    "footprint": "YX55069BCT2:C0805"
+  },
+  {
+    "symbol": "TXS0101DBVR",
+    "source_library": "C132604_import.kicad_sym",
+    "source_symbol": "TXS0101DBVR",
+    "source_sha256": "a50c49ea1fe03bed4b5c88123aa75ceda89cd80e0cfd504b6c21dd85f209584c",
+    "footprint": "YX55069BCT2:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
+  },
+  {
+    "symbol": "TPS61165DBVR",
+    "source_library": "C58756_import.kicad_sym",
+    "source_symbol": "TPS61165DBVR",
+    "source_sha256": "4a0ce0aae9f2553bfd9c22a87a56c5828af3dd14aa727be6afeb702ed60ffd24",
+    "footprint": "YX55069BCT2:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
+  },
+  {
+    "symbol": "CL05B224KO5NNNC",
+    "source_library": "C16772_import.kicad_sym",
+    "source_symbol": "CL05B224KO5NNNC",
+    "source_sha256": "2da9f71013557558fbf8d9dc91957a57e7766fb9daf6b564ffb6e1d40982681a",
+    "footprint": "YX55069BCT2:C0402"
+  },
+  {
+    "symbol": "CSRT0402FT5R00",
+    "source_library": "C6888654_import.kicad_sym",
+    "source_symbol": "CSRT0402FT5R00",
+    "source_sha256": "e2dbccc8739d1d8111a91fe3665e4baf71c1de8a89ebea676ef22070bd09370c",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
+    "symbol": "CC1206KKX5R9BB106",
+    "source_library": "C100122_import.kicad_sym",
+    "source_symbol": "CC1206KKX5R9BB106",
+    "source_sha256": "4ebfd361f90782be8fd154ba806dceb265ecc1d021ec5ea4df6967f0b8c1a98c",
+    "footprint": "YX55069BCT2:C1206"
+  },
+  {
+    "symbol": "TPS259474LRPWR",
+    "source_library": "C2864845_import.kicad_sym",
+    "source_symbol": "TPS259474LRPWR",
+    "source_sha256": "72282e768a28f13e3084e583cd22581bffb30a1c928d33ef5181766da57c3c8c",
+    "footprint": "YX55069BCT2:VQFN-10_L2.0-W2.0-P0.45-TL"
+  },
+  {
+    "symbol": "TVS0500DRVR",
+    "source_library": "C609571_import.kicad_sym",
+    "source_symbol": "TVS0500DRVR",
+    "source_sha256": "31070f1dcba161413c28a142ea7fc1c487b285f74e35f1d1b1e41e8985fb384b",
+    "footprint": "YX55069BCT2:WSON-6_L2.0-W2.0-P0.65-BL-EP"
+  },
+  {
+    "symbol": "0402WGF3483TCE",
+    "source_library": "C25780_import.kicad_sym",
+    "source_symbol": "0402WGF3483TCE",
+    "source_sha256": "30937305d6589aadfe00d458d199c9559f11d4f27935efbbdaa08a33a6924331",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
+    "symbol": "0402WGF3162TCE",
+    "source_library": "C11463_import.kicad_sym",
+    "source_symbol": "0402WGF3162TCE",
+    "source_sha256": "9ec1884ce744fae2b4311caac1c6be17875ae4e7fe41c875765561bfae958b84",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
+    "symbol": "0402WGF1003TCE",
+    "source_library": "C25741_import.kicad_sym",
+    "source_symbol": "0402WGF1003TCE",
+    "source_sha256": "6002c70caae87ffb6b307461d2fb4f64877467d5dae264e8e171d2731aad93c7",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
+    "symbol": "0402WGF1101TCE",
+    "source_library": "C25860_import.kicad_sym",
+    "source_symbol": "0402WGF1101TCE",
+    "source_sha256": "25846c92a5ebb39baf623c360e33673024f20dc05ba60c77e8dae04b63ee0eb3",
+    "footprint": "YX55069BCT2:R0402"
+  },
+  {
+    "symbol": "CL05B102KB5NNNC",
+    "source_library": "C14442_import.kicad_sym",
+    "source_symbol": "CL05B102KB5NNNC",
+    "source_sha256": "03516fc6df4b5f1791df6c9e9e90af1dce522f554a8393bf25abc23e9e10364d",
+    "footprint": "YX55069BCT2:C0402"
+  },
+  {
+    "symbol": "CL05B222KB5NNNC",
+    "source_library": "C84703_import.kicad_sym",
+    "source_symbol": "CL05B222KB5NNNC",
+    "source_sha256": "60c321cffd9b84173f5707f4db28250c08c683f00bb1ac0025a9463f6dc7a9d2",
+    "footprint": "YX55069BCT2:C0402"
+  },
+  {
     "symbol": "TC358870XBG(NOK)",
     "source_library": "tc358870_import.kicad_sym",
     "source_symbol": "TC358870XBG",
