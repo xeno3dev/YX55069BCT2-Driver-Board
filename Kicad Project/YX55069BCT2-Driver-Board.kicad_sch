@@ -14352,189 +14352,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "slate113:AP2120N-2.8TRG1"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at 0 7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "AP2120N-2.8TRG1"
-				(at 0 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "slate113:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
-				(at 0 -10.16 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/C6500826.pdf"
-				(at 0 -12.7 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "DIODES(美台)"
-				(at 0 -15.24 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MPN" "AP2120N-2.8TRG1"
-				(at 0 -17.78 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC Part" "C6500826"
-				(at 0 -20.32 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "Linear Voltage Regulators (LDO)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "AP2120N-2.8TRG1_0_1"
-				(rectangle
-					(start -3.81 5.08)
-					(end 6.35 -5.08)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(circle
-					(center -2.54 3.81)
-					(radius 0.38)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at -6.35 2.54 0)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -6.35 0 0)
-					(length 2.54)
-					(name "VOUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -6.35 -2.54 0)
-					(length 2.54)
-					(name "VIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "slate113:ESD7104MUTAG_C2987068"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -16563,18 +16380,6 @@
 		(uuid "e6453b4d-0be4-4697-a323-21e03b1a2980")
 	)
 	(rectangle
-		(start 13.97 250.19)
-		(end 66.04 283.21)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "e9064c1a-2f34-453b-9b7b-37efbacbe613")
-	)
-	(rectangle
 		(start 115.824 199.898)
 		(end 175.514 249.428)
 		(stroke
@@ -16727,16 +16532,6 @@
 			)
 		)
 		(uuid "96654ba5-1e0b-443e-8791-9cf8297bd1e4")
-	)
-	(text "2V8 LDO"
-		(exclude_from_sim no)
-		(at 18.288 282.448 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "99f5b7c0-1d64-4080-99b0-5d0046977ea7")
 	)
 	(text "VBUS Protection\n"
 		(exclude_from_sim no)
@@ -17014,12 +16809,6 @@
 		(uuid "66611d17-8e07-43b0-80cc-1f75758fae00")
 	)
 	(junction
-		(at 25.4 266.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "682bea24-8209-41d1-8ecf-8e62851f64d3")
-	)
-	(junction
 		(at 534.67 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17234,12 +17023,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e0d607ba-b77c-4d75-88be-82fe5fbc51f5")
-	)
-	(junction
-		(at 25.4 269.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e0f882b6-b447-47f9-829a-7d2b18b0edc4")
 	)
 	(junction
 		(at 116.84 265.43)
@@ -18191,16 +17974,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 266.7) (xy 33.02 266.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "342edc8e-14d4-4c42-bf80-98586a5f8c0b")
-	)
-	(wire
-		(pts
 			(xy 372.11 35.56) (xy 373.38 35.56)
 		)
 		(stroke
@@ -18618,16 +18391,6 @@
 			(type default)
 		)
 		(uuid "56b0264f-82b8-4940-bb23-30ba2a473c12")
-	)
-	(wire
-		(pts
-			(xy 25.4 262.89) (xy 25.4 266.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56c9c26f-ce78-47a8-82e1-9e91395aae15")
 	)
 	(wire
 		(pts
@@ -19661,16 +19424,6 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 269.24) (xy 25.4 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3d66dff-afb1-4b6b-b713-e7b07ffe4ea7")
-	)
-	(wire
-		(pts
 			(xy 218.44 270.51) (xy 220.98 270.51)
 		)
 		(stroke
@@ -20221,16 +19974,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 269.24) (xy 33.02 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9c97b9f-b7b3-47e8-9440-a1deb3bb7134")
-	)
-	(wire
-		(pts
 			(xy 400.05 83.82) (xy 379.73 83.82)
 		)
 		(stroke
@@ -20748,16 +20491,6 @@
 			(type default)
 		)
 		(uuid "fa05ef20-002f-448a-ac50-c4ec73b7e07f")
-	)
-	(wire
-		(pts
-			(xy 24.13 266.7) (xy 25.4 266.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa190eba-38ee-49c1-83cf-442bc8841548")
 	)
 	(wire
 		(pts
@@ -21831,30 +21564,6 @@
 			)
 		)
 	)
-	(global_label "GND"
-		(shape input)
-		(at 25.4 257.81 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "315a6c51-eeff-42d8-966c-ccd9959141f8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 25.4 250.9543 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "LCD_PWM"
 		(shape input)
 		(at 123.19 129.54 180)
@@ -22084,30 +21793,6 @@
 		(uuid "3a84ae01-b0b7-4289-85a5-18bb65f320f6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 57.15 231.5852 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "3V3"
-		(shape input)
-		(at 24.13 269.24 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3b0d41df-2e5b-458e-950c-d4aa817256d3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 17.6372 269.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23031,30 +22716,6 @@
 			)
 		)
 	)
-	(global_label "TP_2V8"
-		(shape input)
-		(at 24.13 266.7 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "58604e08-b94a-45f9-977b-76496a7cfb2a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.432 266.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "D0-"
 		(shape input)
 		(at 316.23 142.24 180)
@@ -23124,30 +22785,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 33.02 264.16 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5b5bd067-213d-4a3c-a0e2-c5f8f2dd3918")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.1643 264.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -24159,30 +23796,6 @@
 			)
 		)
 	)
-	(global_label "2V8"
-		(shape input)
-		(at 29.21 26.67 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8e3f12f4-c1fa-4f5c-bbcf-c45ade614302")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.21 20.1772 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "1V2"
 		(shape input)
 		(at 361.95 104.14 0)
@@ -24364,30 +23977,6 @@
 		(uuid "98227de2-0e7c-4526-9f17-8c5b904e421a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 202.9362 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 25.4 274.32 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9a674303-d3cb-4c64-bd2b-762412024016")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 25.4 281.1757 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26052,6 +25641,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "TP_2V8"
+		(shape input)
+		(at 29.21 26.67 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e619aace-3d4d-4f05-95ed-f5803bab2a4f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.21 16.972 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -28264,135 +27877,6 @@
 			(project "YX55069BCT2-Driver-Board"
 				(path "/461fc953-e8b0-4235-a45d-70ee2b2a9187"
 					(reference "#PWR039")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "slate113:AP2120N-2.8TRG1")
-		(at 39.37 266.7 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1632b98b-1fc1-4741-a358-08152d52b2dc")
-		(property "Reference" "U63"
-			(at 46.99 265.4299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "AP2120N-2.8TRG1"
-			(at 46.99 267.9699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "slate113:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
-			(at 39.37 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C6500826.pdf"
-			(at 39.37 279.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 39.37 266.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "DIODES(美台)"
-			(at 39.37 281.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "AP2120N-2.8TRG1"
-			(at 39.37 284.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C6500826"
-			(at 39.37 287.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DigiKey Part" ""
-			(at -140.97 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "e5a41cfa-abb4-49d7-ad60-45f9ee88f324")
-		)
-		(pin "2"
-			(uuid "df2e59da-dbab-4da8-b618-868501891be6")
-		)
-		(pin "1"
-			(uuid "4f8785a1-a3b5-4597-80d5-24530a31c6ad")
-		)
-		(instances
-			(project "YX55069BCT2-Driver-Board"
-				(path "/461fc953-e8b0-4235-a45d-70ee2b2a9187"
-					(reference "U63")
 					(unit 1)
 				)
 			)
@@ -36749,132 +36233,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 25.4 260.35 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "522d43ce-f8ed-456a-807c-05e6261f3439")
-		(property "Reference" "C155"
-			(at 22.86 259.0862 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1µF"
-			(at 22.86 261.6262 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 25.4 260.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C92848.html"
-			(at 25.4 260.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 25.4 260.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C92848"
-			(at -140.97 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "UMK107BJ105KA-T"
-			(at -140.97 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Taiyo Yuden"
-			(at -140.97 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DigiKey Part" ""
-			(at -140.97 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0a1b8035-20f4-4abb-b9f6-c7cb59ea352a")
-		)
-		(pin "2"
-			(uuid "529fc866-aa09-4b9c-930c-1a46207d998c")
-		)
-		(instances
-			(project "YX55069BCT2-Driver-Board"
-				(path "/461fc953-e8b0-4235-a45d-70ee2b2a9187"
-					(reference "C155")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "YX55069BCT2:RC0402FR-0727RL")
 		(at 458.47 104.14 0)
 		(unit 1)
@@ -37801,132 +37159,6 @@
 			(project "YX55069BCT2-Driver-Board"
 				(path "/461fc953-e8b0-4235-a45d-70ee2b2a9187"
 					(reference "C43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 25.4 271.78 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5deafca7-e950-4b8a-92e9-97494d7a2c6f")
-		(property "Reference" "C150"
-			(at 27.94 270.5162 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1µF"
-			(at 27.94 273.0562 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 25.4 271.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C92848.html"
-			(at 25.4 271.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 25.4 271.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C92848"
-			(at -140.97 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "UMK107BJ105KA-T"
-			(at -140.97 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Taiyo Yuden"
-			(at -140.97 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DigiKey Part" ""
-			(at -140.97 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "04d11bed-e840-431b-8dae-056fdd4500a0")
-		)
-		(pin "2"
-			(uuid "015816a3-abaf-4d6e-b04a-ed22876be0c8")
-		)
-		(instances
-			(project "YX55069BCT2-Driver-Board"
-				(path "/461fc953-e8b0-4235-a45d-70ee2b2a9187"
-					(reference "C150")
 					(unit 1)
 				)
 			)
