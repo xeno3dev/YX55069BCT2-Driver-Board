@@ -99,4 +99,11 @@
     (start 1.60 1.25)
     (end -1.60 1.25)
     (layer F.CrtYd)
-    (width 0.05)))
+    (width 0.05))
+  (model "${KIPRJMOD}/../Component Libs/YX55069BCT2.3dshapes/CRYSTAL-SMD_4P-L3.2-W2.5-BL.step"
+    (offset
+      (xyz 0 0 0))
+    (scale
+      (xyz 1 1 1))
+    (rotate
+      (xyz 0 0 0))))

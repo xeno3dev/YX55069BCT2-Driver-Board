@@ -234,4 +234,11 @@
     (start 1.00 1.00)
     (end -1.00 1.00)
     (layer F.CrtYd)
-    (width 0.05)))
+    (width 0.05))
+  (model "${KIPRJMOD}/../Component Libs/YX55069BCT2.3dshapes/VQFN-10_L2.0-W2.0-P0.45-TL.step"
+    (offset
+      (xyz 0 0 0))
+    (scale
+      (xyz 1 1 1))
+    (rotate
+      (xyz 0 0 0))))

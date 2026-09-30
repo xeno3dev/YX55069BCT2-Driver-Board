@@ -254,4 +254,11 @@
     (size 0.3 1.15)
     (layers "F.Cu" "F.Mask" "F.Paste")
     (uuid "f8b9ba95-5d28-4468-ae87-13ba29541e55"))
-  (embedded_fonts no))
+  (embedded_fonts no)
+  (model "${KIPRJMOD}/../Component Libs/YX55069BCT2.3dshapes/USB-C-SMD_TYPE-C16PIN.step"
+    (offset
+      (xyz 0 0 0))
+    (scale
+      (xyz 1 1 1))
+    (rotate
+      (xyz 0 0 0))))

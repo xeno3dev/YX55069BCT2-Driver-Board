@@ -110,4 +110,11 @@
     (start 1.60 0.80)
     (end -1.60 0.80)
     (layer F.CrtYd)
-    (width 0.05)))
+    (width 0.05))
+  (model "${KIPRJMOD}/../Component Libs/YX55069BCT2.3dshapes/C1206_L3.2-W1.6-H1.3.step"
+    (offset
+      (xyz 0 0 0))
+    (scale
+      (xyz 1 1 1))
+    (rotate
+      (xyz 0 0 0))))

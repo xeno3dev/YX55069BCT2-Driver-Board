@@ -154,4 +154,11 @@
     (start 3.00 2.50)
     (end -3.00 2.50)
     (layer F.CrtYd)
-    (width 0.05)))
+    (width 0.05))
+  (model "${KIPRJMOD}/../Component Libs/YX55069BCT2.3dshapes/WSON-8_L6.0-W5.0-P1.27-TL-EP.step"
+    (offset
+      (xyz 0 0 0))
+    (scale
+      (xyz 1 1 1))
+    (rotate
+      (xyz 0 0 0))))

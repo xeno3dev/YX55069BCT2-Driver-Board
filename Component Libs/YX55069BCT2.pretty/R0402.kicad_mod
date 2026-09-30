@@ -87,4 +87,11 @@
     (start 0.50 0.25)
     (end -0.50 0.25)
     (layer F.CrtYd)
-    (width 0.05)))
+    (width 0.05))
+  (model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+    (offset
+      (xyz 0 0 0))
+    (scale
+      (xyz 1 1 1))
+    (rotate
+      (xyz 0 0 0))))

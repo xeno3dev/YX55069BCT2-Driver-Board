@@ -110,4 +110,11 @@
     (start 0.80 0.40)
     (end -0.80 0.40)
     (layer F.CrtYd)
-    (width 0.05)))
+    (width 0.05))
+  (model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+    (offset
+      (xyz 0 0 0))
+    (scale
+      (xyz 1 1 1))
+    (rotate
+      (xyz 0 0 0))))

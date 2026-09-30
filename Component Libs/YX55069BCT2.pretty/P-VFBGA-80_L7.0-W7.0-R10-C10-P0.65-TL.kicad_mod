@@ -819,4 +819,11 @@
       (width 0)
       (type solid))
     (fill solid)
-    (layer "F.SilkS")))
+    (layer "F.SilkS"))
+  (model "${KIPRJMOD}/../Component Libs/YX55069BCT2.3dshapes/P-VFBGA-80_L7.0-W7.0-H0.9-R10-C10-P0.65-TL.step"
+    (offset
+      (xyz 0 0 0))
+    (scale
+      (xyz 1 1 1))
+    (rotate
+      (xyz 0 0 0))))
