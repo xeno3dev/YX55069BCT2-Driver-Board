@@ -19154,16 +19154,6 @@
 	)
 	(wire
 		(pts
-			(xy 485.14 116.84) (xy 485.14 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c47c0d4-6df3-4c8b-80d9-1f0e296cfd90")
-	)
-	(wire
-		(pts
 			(xy 49.53 127) (xy 49.53 120.65)
 		)
 		(stroke
@@ -43327,7 +43317,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 485.14 123.19 0)
+		(at 485.14 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -43338,7 +43328,7 @@
 		(fields_autoplaced yes)
 		(uuid "93cee0da-37d3-478e-927f-03330989fa6d")
 		(property "Reference" "#PWR037"
-			(at 485.14 129.54 0)
+			(at 485.14 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43349,7 +43339,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 485.14 128.27 0)
+			(at 485.14 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43359,7 +43349,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 485.14 123.19 0)
+			(at 485.14 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43370,7 +43360,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 485.14 123.19 0)
+			(at 485.14 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43381,7 +43371,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 485.14 123.19 0)
+			(at 485.14 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
