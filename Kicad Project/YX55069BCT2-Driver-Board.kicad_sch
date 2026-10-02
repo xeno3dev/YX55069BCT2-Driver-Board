@@ -26326,7 +26326,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 306.07 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -26351,7 +26351,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "Device:FerriteBead")
 		(at 233.68 83.82 0)
@@ -26433,7 +26434,9 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14709" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "LCSC Part" "C14709" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 441.96 184.15 0)
@@ -27279,7 +27282,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C77044" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "YX55069BCT2:R_100k_0603")
 		(at 203.2 69.85 90)
@@ -27611,7 +27615,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2169363"
+		(property "LCSC" "C1591"
 			(at 38.1 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -27636,7 +27640,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 255.27 233.68 0)
@@ -28365,7 +28370,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 184.15 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -28390,7 +28395,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 199.39 124.46 0)
@@ -29236,7 +29242,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C29936" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 62.23 39.37 0)
@@ -29760,7 +29767,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 358.14 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -29785,7 +29792,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "YX55069BCT2:R_100k_0603")
 		(at 232.41 71.12 0)
@@ -30051,7 +30059,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C77044" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 361.95 165.1 90)
@@ -30199,7 +30208,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 204.47 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -30224,7 +30233,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "YX55069BCT2:RC0402FR-0710KL")
 		(at 320.04 59.69 180)
@@ -30567,7 +30577,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C77044" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 316.23 167.64 270)
@@ -31393,7 +31404,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 374.65 127 0)
 			(hide yes)
 			(show_name no)
@@ -31418,7 +31429,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "YX55069BCT2:RC0402FR-0727RL")
 		(at 458.47 106.68 180)
@@ -33093,7 +33105,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 441.96 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -33118,7 +33130,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "YX55069BCT2:OT7EL89CJI-111YLC-48M")
 		(at 339.09 60.96 0)
@@ -33588,7 +33601,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C29936" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 541.02 231.14 0)
@@ -34431,7 +34445,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 265.43 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -34456,7 +34470,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_2")
 		(lib_id "Device:C_Small")
@@ -34550,7 +34565,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C23630" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "YX55069BCT2:10029449-001RLF")
 		(at 219.71 52.07 0)
@@ -34574,7 +34590,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10029449-001RLF"
+		(property "Value" "10029449-111RLF"
 			(at 231.14 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34629,7 +34645,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C428493"
+		(property "LCSC" "C427307"
 			(at 219.71 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -34730,7 +34746,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C427307" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 82.55 36.83 0)
@@ -34877,7 +34894,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C277499"
+		(property "LCSC" "C69335"
 			(at 82.55 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -34902,7 +34919,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C69335" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_2")
 		(lib_id "Device:C_Small")
@@ -34996,7 +35014,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C52923" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 199.39 152.4 0)
@@ -35491,7 +35510,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C52923" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "Device:C_Small")
 		(at 113.03 123.19 90)
@@ -36221,7 +36241,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C29936" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "YX55069BCT2:RC0402FR-0727RL")
 		(at 458.47 104.14 0)
@@ -36524,7 +36545,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 256.54 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -36549,7 +36570,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_1")
 		(lib_id "Device:C_Small")
@@ -36618,7 +36640,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C277499"
+		(property "LCSC" "C69335"
 			(at 82.55 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -36643,7 +36665,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C69335" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 280.67 82.55 90)
@@ -37128,7 +37151,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 381 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -37153,7 +37176,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_1")
 		(lib_id "Device:C_Small")
@@ -37222,7 +37246,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C277499"
+		(property "LCSC" "C69335"
 			(at 82.55 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -37247,7 +37271,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C69335" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 49.53 97.79 0)
@@ -37394,7 +37419,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2169363"
+		(property "LCSC" "C1591"
 			(at 120.65 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -37419,7 +37444,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 161.29 191.77 0)
@@ -37669,7 +37695,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C29936" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "YX55069BCT2:0402WGF1101TCE")
 		(at 453.39 177.8 90)
@@ -38496,7 +38523,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C86285" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 49.53 156.21 0)
@@ -38668,7 +38696,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C23630" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "Device:R_Small")
 		(at 43.18 57.15 180)
@@ -38825,7 +38854,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 436.88 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -38850,7 +38879,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "YX55069BCT2:RC0402FR-072KL")
 		(at 300.99 78.74 180)
@@ -39449,7 +39479,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C86285" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "YX55069BCT2:RC0402FR-0722RL")
 		(at 358.14 62.23 0)
@@ -39778,7 +39809,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C23630" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 316.23 165.1 270)
@@ -39951,7 +39983,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C77044" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 62.23 67.31 0)
@@ -40506,7 +40539,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2169363"
+		(property "LCSC" "C1591"
 			(at 38.1 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -40531,7 +40564,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_1")
 		(lib_id "Device:C_Small")
@@ -40600,7 +40634,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2857993"
+		(property "LCSC" "C69335"
 			(at 29.21 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -40625,7 +40659,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C69335" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 214.63 233.68 0)
@@ -40850,7 +40885,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 510.54 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -40875,7 +40910,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 361.95 170.18 90)
@@ -41224,7 +41260,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 379.73 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -41249,7 +41285,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "Device:R_Small")
 		(at 120.65 260.35 90)
@@ -41848,7 +41885,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 179.07 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -41873,7 +41910,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 224.79 233.68 0)
@@ -42776,7 +42814,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 379.73 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -42801,7 +42839,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "Device:R")
 		(at 151.13 265.43 0)
@@ -43486,7 +43525,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C23630" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 233.68 87.63 0)
@@ -43745,7 +43785,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 283.972 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -43770,7 +43810,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_2")
 		(lib_id "Device:C_Small")
@@ -43839,7 +43880,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 440.69 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -43864,7 +43905,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "YX55069BCT2:R_100k_0603")
 		(at 198.12 26.67 0)
@@ -45640,7 +45682,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C23630" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_2")
 		(lib_id "Device:C_Small")
@@ -45734,7 +45777,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C77044" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "Device:R_Small")
 		(at 43.18 66.04 0)
@@ -46092,7 +46136,9 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C7519" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "LCSC Part" "C7519" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 125.73 39.37 270)
@@ -46316,7 +46362,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 177.8 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -46341,7 +46387,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 43.18 68.58 0)
@@ -47139,7 +47186,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2857993"
+		(property "LCSC" "C69335"
 			(at 29.21 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -47164,7 +47211,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C69335" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_1")
 		(lib_id "Device:C_Small")
@@ -47233,7 +47281,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2857993"
+		(property "LCSC" "C69335"
 			(at 29.21 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -47258,7 +47306,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C69335" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 453.39 182.88 0)
@@ -49607,7 +49656,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 528.32 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -49632,7 +49681,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_2")
 		(lib_id "Device:C_Small")
@@ -49698,7 +49748,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 161.29 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -49723,7 +49773,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 361.95 167.64 90)
@@ -49871,7 +49922,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2169363"
+		(property "LCSC" "C1591"
 			(at 38.1 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -49896,7 +49947,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 466.09 151.13 180)
@@ -50122,7 +50174,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2169363"
+		(property "LCSC" "C1591"
 			(at 38.1 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -50147,7 +50199,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 429.26 182.88 0)
@@ -50555,7 +50608,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C23630" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 391.16 210.82 0)
@@ -50860,7 +50914,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 326.39 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -50885,7 +50939,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 38.1 118.11 0)
@@ -51032,7 +51087,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C277499"
+		(property "LCSC" "C69335"
 			(at 82.55 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -51057,7 +51112,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C69335" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 532.13 231.14 0)
@@ -51219,7 +51275,9 @@
 				)
 			)
 		)
-	)
+			(property "LCSC" "C14709" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "LCSC Part" "C14709" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 467.36 213.36 0)
@@ -51448,7 +51506,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2169363"
+		(property "LCSC" "C1591"
 			(at 38.1 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -51473,7 +51531,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_2")
 		(lib_id "Device:C_Small")
@@ -51541,7 +51600,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 467.36 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -51566,7 +51625,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_1")
 		(lib_id "Device:C_Small")
@@ -51635,7 +51695,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2857993"
+		(property "LCSC" "C69335"
 			(at 29.21 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -51660,7 +51720,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C69335" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_2")
 		(lib_id "Device:C_Small")
@@ -51754,7 +51815,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C77044" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_2")
 		(lib_id "Device:C_Small")
@@ -51849,7 +51911,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C77044" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 363.22 210.82 0)
@@ -51996,7 +52059,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 224.79 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -52021,7 +52084,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "Device:R")
 		(at 148.59 265.43 0)
@@ -52241,7 +52305,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C29936" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 316.23 233.68 0)
@@ -52883,7 +52948,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 245.11 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -52908,7 +52973,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "Device:R_Small")
 		(at 72.39 238.76 0)
@@ -53258,7 +53324,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C277499"
+		(property "LCSC" "C69335"
 			(at 82.55 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -53283,7 +53349,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C69335" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 29.21 88.9 0)
@@ -53666,7 +53733,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2857993"
+		(property "LCSC" "C69335"
 			(at 29.21 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -53691,7 +53758,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C69335" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_2")
 		(lib_id "Device:C_Small")
@@ -53760,7 +53828,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 285.75 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -53785,7 +53853,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_name "C_Small_2")
 		(lib_id "Device:C_Small")
@@ -53854,7 +53923,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C77044"
+		(property "LCSC" "C1591"
 			(at 353.06 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -53879,7 +53948,8 @@
 				)
 			)
 		)
-	)
+			(property "LCSC Part" "C1591" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+)
 	(symbol
 		(lib_id "power:GND")
 		(at 157.48 93.98 90)
